@@ -1,0 +1,1753 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrancaBeauty.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PrancaBeauty.WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Main\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\font.awesome.css",
+      "PackagePath": "staticwebassets\\Main\\css\\font.awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Main\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\Main\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\Main\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\slick.css",
+      "PackagePath": "staticwebassets\\Main\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\slinky.menu.css",
+      "PackagePath": "staticwebassets\\Main\\css\\slinky.menu.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\style-ltr.css",
+      "PackagePath": "staticwebassets\\Main\\css\\style-ltr.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\style-ltr.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\style-ltr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\style-rtl.css",
+      "PackagePath": "staticwebassets\\Main\\css\\style-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\css\\style-rtl.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\style-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\300\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\300\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\300\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\300\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\300\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\300\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\300\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\300\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\400\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\400\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\400\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\400\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\400\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\400\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\400\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\400\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\600\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\600\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\600\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\600\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\600\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\600\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\600\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\600\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\700\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\700\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\700\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\700\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\700\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\700\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\700\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\700\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\800\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\800\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\800\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\800\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\800\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\800\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IRANSans\\800\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IRANSans\\800\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebBlack.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebBlack.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebBold.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebExtraBlack.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebExtraBlack.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebExtraBold.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebExtraBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebLight.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebMedium.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebMedium.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebRegular.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebRegular.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebThin.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\eot\\IRANYekanWebThin.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\svg\\IRANYekanWebRegular.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\svg\\IRANYekanWebRegular.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\svg\\iranyekanwebblack.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\svg\\iranyekanwebblack.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\svg\\iranyekanwebbold.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\svg\\iranyekanwebbold.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\svg\\iranyekanwebextrablack.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\svg\\iranyekanwebextrablack.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\svg\\iranyekanwebextrabold.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\svg\\iranyekanwebextrabold.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\svg\\iranyekanweblight.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\svg\\iranyekanweblight.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\svg\\iranyekanwebmedium.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\svg\\iranyekanwebmedium.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\svg\\iranyekanwebthin.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\svg\\iranyekanwebthin.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebBlack.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebBold.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebExtraBlack.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebExtraBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebLight.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebMedium.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebMedium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebRegular.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebRegular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebThin.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\ttf\\IRANYekanWebThin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebBlack.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebBlack.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebBold.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebExtraBlack.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebExtraBlack.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebExtraBold.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebExtraBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebLight.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebMedium.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebMedium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebRegular.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebRegular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebThin.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff2\\IRANYekanWebThin.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebBlack.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebBlack.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebBold.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebExtraBlack.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebExtraBlack.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebExtraBold.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebExtraBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebLight.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebMedium.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebMedium.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebRegular.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebRegular.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebThin.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\IranYekan\\woff\\IRANYekanWebThin.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\ionicons.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\ionicons.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\fonts\\icons\\ionicons.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icons\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\About_icon1.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\About_icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\About_icon2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\About_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\About_icon3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\About_icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about-us-person1.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about-us-person1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about-us-person2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about-us-person2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about-us-person3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about-us-person3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about-us-person4.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about-us-person4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about-us-policy-bg.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about-us-policy-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about-us-signature.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about-us-signature.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\about4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\about4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\count.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\count.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\count2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\count2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\count3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\count3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\count4.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\count4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\icon-newletter.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\icon-newletter.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping1.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping10.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping10.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping4.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping5.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping5.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping6.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping6.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping7.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping7.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping8.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping8.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\shipping9.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\shipping9.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\testimonial1.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\testimonial1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\testimonial2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\testimonial2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\testimonial3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\testimonial3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\about\\testimonials-icon.png",
+      "PackagePath": "staticwebassets\\Main\\img\\about\\testimonials-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner10.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner11.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner12.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner13.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner14.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner15.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner16.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner17.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner5.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner6.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner7.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner8.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner9.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\banner_menu.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\banner_menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\bkg_top_vogue2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\bkg_top_vogue2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\img-top-vogue3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\img-top-vogue3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bg\\signature.png",
+      "PackagePath": "staticwebassets\\Main\\img\\bg\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bkg_grid.png",
+      "PackagePath": "staticwebassets\\Main\\img\\bkg_grid.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bkg_grid4.png",
+      "PackagePath": "staticwebassets\\Main\\img\\bkg_grid4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bkg_grid4_hover.png",
+      "PackagePath": "staticwebassets\\Main\\img\\bkg_grid4_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bkg_grid_hover.png",
+      "PackagePath": "staticwebassets\\Main\\img\\bkg_grid_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bkg_list.png",
+      "PackagePath": "staticwebassets\\Main\\img\\bkg_list.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\bkg_list_hover.png",
+      "PackagePath": "staticwebassets\\Main\\img\\bkg_list_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\admin_avatar.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\admin_avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog-big1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog-big1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog-big2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog-big2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog-big3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog-big3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog-big4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog-big4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog-big5.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog-big5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog16.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog5.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog6.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blog7.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blog7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blogs1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blogs1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blogs2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blogs2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\blogs3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\blogs3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\comment.png",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\comment.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\comment2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\comment2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\comment2.png.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\comment2.png.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\comment3.png.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\comment3.png.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\post1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\post2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\post3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\post4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\post5.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\post5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\blog\\post6.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog\\post6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand1.png",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand4.png",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand5.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand5.png",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand5.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand6.png",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand6.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\brand\\brand7.png",
+      "PackagePath": "staticwebassets\\Main\\img\\brand\\brand7.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Main\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\bkg_grid.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\bkg_grid.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\bkg_grid4.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\bkg_grid4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\bkg_grid4_hover.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\bkg_grid4_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\bkg_grid5.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\bkg_grid5.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\bkg_grid5_hover.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\bkg_grid5_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\bkg_grid_hover.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\bkg_grid_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\bkg_list.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\bkg_list.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\bkg_list_hover.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\bkg_list_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\bkg_title.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\bkg_title.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\blog-nav.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\blog-nav.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\comment-icon.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\comment-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon-account.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon-account.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon-account2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon-account2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon-account3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon-account3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon-app.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon-app.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon-phone.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon-phone2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon-phone2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon-phone3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon-phone3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon-testimal.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon-testimal.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon1-app.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon1-app.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon_phone.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon_phone.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon_text_header.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon_text_header.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\icon_text_header2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\icon_text_header2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\language.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\language2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\language2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\money-icon.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\money-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\papyel.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\papyel.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\payment.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\paypal1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\paypal1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\paypal2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\paypal2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\paypal3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\paypal3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\paypal4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\paypal4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\shipping-icon.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\shipping-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\icon\\star-icon.png",
+      "PackagePath": "staticwebassets\\Main\\img\\icon\\star-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\logo\\language.png",
+      "PackagePath": "staticwebassets\\Main\\img\\logo\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\logo\\language2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\logo\\language2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\Main\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\paypal.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\paypal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\12-600x600.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\12-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product10.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product11.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product12.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product13.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product14.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product15.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product16.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product17.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product18.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product19.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product5.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product6.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product7.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product8.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\product9.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\product9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\productbig1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\productbig1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\productbig2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\productbig2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\productbig3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\productbig3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\product\\productbig4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\product\\productbig4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\s-product\\category1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\s-product\\category1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\s-product\\category2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\s-product\\category2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\s-product\\category3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\s-product\\category3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\s-product\\category4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\s-product\\category4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\s-product\\category5.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\s-product\\category5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\s-product\\category6.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\s-product\\category6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\s-product\\product.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\s-product\\product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\s-product\\product2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\s-product\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\s-product\\product3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\s-product\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\service\\services1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\service\\services1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\service\\services2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\service\\services2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\service\\services3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\service\\services3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\service\\services4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\service\\services4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\slider\\slider3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\slider\\slider4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\slider\\slider5.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\slider\\slider6.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider\\slider6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\slider\\slider7.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider\\slider7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\img\\slider\\slider8.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider\\slider8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\jquery-waypoints.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery-waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\jquery.elevatezoom.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.elevatezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\jquery.ui.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.ui.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\main.js",
+      "PackagePath": "staticwebassets\\Main\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\map.js",
+      "PackagePath": "staticwebassets\\Main\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Main\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Main\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\slinky.menu.js",
+      "PackagePath": "staticwebassets\\Main\\js\\slinky.menu.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\vendor\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\vendor\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\js\\vendor\\modernizr-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\vendor\\modernizr-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\_common.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\_mixin.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\_mixin.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\_variabls.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\_variabls.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\element\\_button.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\element\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_404.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_404.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_about.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_banner.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_blog-page.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_blog-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_blog.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_brand.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_cart-page.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_cart-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_checkout.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_contact.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_faq.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_faq.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_footer.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_header.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_login.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_my-account.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_my-account.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_newsletter-popup.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_newsletter-popup.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_privacy-policy.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_privacy-policy.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_product-details.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_product-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_product.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_quick-view.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_quick-view.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_services.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_shipping.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_shipping.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_shop.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_slider.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\section\\_wishlist.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\section\\_wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\style.css",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\style.min.css",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\ltr\\style.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\ltr\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\_common.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\_mixin.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\_mixin.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\_variabls.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\_variabls.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\element\\_button.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\element\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_404.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_404.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_about.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_banner.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_blog-page.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_blog-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_blog.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_brand.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_cart-page.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_cart-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_checkout.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_contact.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_faq.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_faq.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_footer.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_header.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_login.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_my-account.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_my-account.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_newsletter-popup.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_newsletter-popup.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_privacy-policy.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_privacy-policy.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_product-details.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_product-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_product.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_quick-view.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_quick-view.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_services.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_shipping.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_shipping.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_shop.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_slider.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\section\\_wishlist.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\section\\_wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\style.css",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\style.min.css",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Main\\scss\\rtl\\style.scss",
+      "PackagePath": "staticwebassets\\Main\\scss\\rtl\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\layers-2x.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\layers-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\layers.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\layers.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\marker-icon-2x.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\marker-icon-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\marker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\marker-shadow.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\marker-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet-src.esm.js",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet-src.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet-src.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet-src.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet-src.js",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet-src.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet-src.js.map",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet-src.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.css",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.js",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.js.map",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.min.css",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.min.js",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PrancaBeauty.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PrancaBeauty.WebApp.props",
+      "PackagePath": "build\\PrancaBeauty.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PrancaBeauty.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\PrancaBeauty.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PrancaBeauty.WebApp.props",
+      "PackagePath": "buildTransitive\\PrancaBeauty.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

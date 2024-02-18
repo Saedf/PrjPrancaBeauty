@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PrancaBeauty.WebApp.props" />
+</Project>
