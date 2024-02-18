@@ -1,6 +1,14 @@
+using System.Text.Encodings.Web;
+using System.Text.Unicode;
+using Microsoft.Extensions.WebEncoders;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.Configure<WebEncoderOptions>(opt =>
+{
+    opt.TextEncoderSettings = new TextEncoderSettings(UnicodeRanges.Arabic, UnicodeRanges.BasicLatin);
+});
 builder.Services.AddRazorPages(a => a.Conventions.AddPageRoute("/Home/Index", ""));
 
 var app = builder.Build();
