@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\PrancaBeauty.WebApp.csproj": {}
+    "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\PrancaBeauty.WebApp.csproj": {
+    "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\PrancaBeauty.WebApp.csproj",
-        "projectName": "PrancaBeauty.WebApp",
-        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\PrancaBeauty.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
+        "projectName": "PrancaBeauty.Infrastructure.Core",
+        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
         "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saed\\NuGet.Config",
@@ -52,9 +52,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

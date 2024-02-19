@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrancaBeauty.WebApp", "PrancaBeauty.WebApp\PrancaBeauty.WebApp.csproj", "{23F07EB4-54C1-49CA-AD2B-65DA43522078}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrancaBeauty.WebApp", "PrancaBeauty.WebApp\PrancaBeauty.WebApp.csproj", "{23F07EB4-54C1-49CA-AD2B-65DA43522078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrancaBeauty.Domain", "PrancaBeauty.Domain\PrancaBeauty.Domain.csproj", "{EDA2C67A-0527-476B-BE24-86CDF54FE816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrancaBeauty.Application", "PrancaBeauty.Application\PrancaBeauty.Application.csproj", "{0BFBD89D-46B4-45A8-BA26-ED864F047873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrancaBeauty.Application.Contracts", "PrancaBeauty.Application.Contracts\PrancaBeauty.Application.Contracts.csproj", "{D07AE8B9-930D-40A2-AE25-7D12927369DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrancaBeauty.Infrastructure.Core", "PrancaBeauty.Infrastructure.Core\PrancaBeauty.Infrastructure.Core.csproj", "{0C6B856E-326A-49C4-A941-EA74E14F1F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrancaBeauty.Infrastructure.EfCore", "PrancaBeauty.Infrastructure.EfCore\PrancaBeauty.Infrastructure.EfCore.csproj", "{9BC12D40-853B-432F-BED4-F332445CA4B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{23F07EB4-54C1-49CA-AD2B-65DA43522078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23F07EB4-54C1-49CA-AD2B-65DA43522078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23F07EB4-54C1-49CA-AD2B-65DA43522078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA2C67A-0527-476B-BE24-86CDF54FE816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA2C67A-0527-476B-BE24-86CDF54FE816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA2C67A-0527-476B-BE24-86CDF54FE816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA2C67A-0527-476B-BE24-86CDF54FE816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFBD89D-46B4-45A8-BA26-ED864F047873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFBD89D-46B4-45A8-BA26-ED864F047873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFBD89D-46B4-45A8-BA26-ED864F047873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFBD89D-46B4-45A8-BA26-ED864F047873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07AE8B9-930D-40A2-AE25-7D12927369DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07AE8B9-930D-40A2-AE25-7D12927369DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07AE8B9-930D-40A2-AE25-7D12927369DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07AE8B9-930D-40A2-AE25-7D12927369DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6B856E-326A-49C4-A941-EA74E14F1F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6B856E-326A-49C4-A941-EA74E14F1F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6B856E-326A-49C4-A941-EA74E14F1F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6B856E-326A-49C4-A941-EA74E14F1F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC12D40-853B-432F-BED4-F332445CA4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC12D40-853B-432F-BED4-F332445CA4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC12D40-853B-432F-BED4-F332445CA4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC12D40-853B-432F-BED4-F332445CA4B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
