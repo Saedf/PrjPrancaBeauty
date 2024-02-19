@@ -15,7 +15,7 @@ namespace PrancaBeauty.WebApp.Pages.Home
 
         public void OnGet()
         {
-            string Msg = _localizer["Hello"];
+           // string Msg = _localizer["Hello"];
         }
     }
 }
