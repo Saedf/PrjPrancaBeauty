@@ -9,6 +9,14 @@
       "PrancaBeauty.WebApp/1.0.0": {
         "runtime": {
           "PrancaBeauty.WebApp.dll": {}
+        },
+        "resources": {
+          "en-US/PrancaBeauty.WebApp.resources.dll": {
+            "locale": "en-US"
+          },
+          "fa-IR/PrancaBeauty.WebApp.resources.dll": {
+            "locale": "fa-IR"
+          }
         }
       }
     }

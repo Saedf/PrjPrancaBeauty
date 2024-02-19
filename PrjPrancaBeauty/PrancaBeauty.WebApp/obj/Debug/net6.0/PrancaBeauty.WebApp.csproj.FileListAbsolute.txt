@@ -29,3 +29,10 @@ C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\PrancaBeauty.WebApp.pdb
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\PrancaBeauty.WebApp.genruntimeconfig.cache
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\ref\PrancaBeauty.WebApp.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\bin\Debug\net6.0\en-US\PrancaBeauty.WebApp.resources.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\bin\Debug\net6.0\fa-IR\PrancaBeauty.WebApp.resources.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\PrancaBeauty.WebApp.Localization.Resource.SharedResource.en-US.resources
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\PrancaBeauty.WebApp.Localization.Resource.SharedResource.fa-IR.resources
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\PrancaBeauty.WebApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\en-US\PrancaBeauty.WebApp.resources.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\fa-IR\PrancaBeauty.WebApp.resources.dll
