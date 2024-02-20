@@ -1,0 +1,4 @@
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\PrancaBeauty.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\PrancaBeauty.Domain.AssemblyInfoInputs.cache
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\PrancaBeauty.Domain.AssemblyInfo.cs
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\PrancaBeauty.Domain.csproj.CoreCompileInputs.cache

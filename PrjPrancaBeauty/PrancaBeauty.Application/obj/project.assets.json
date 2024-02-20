@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj",
       "projectName": "PrancaBeauty.Application",
-      "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj",
+      "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj",
       "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\obj\\",
+      "outputPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saed\\NuGet.Config",

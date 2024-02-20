@@ -1,0 +1,11 @@
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\bin\Debug\net6.0\PrancaBeauty.Infrastructure.Core.deps.json
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\bin\Debug\net6.0\PrancaBeauty.Infrastructure.Core.dll
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\bin\Debug\net6.0\PrancaBeauty.Infrastructure.Core.pdb
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\PrancaBeauty.Infrastructure.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\PrancaBeauty.Infrastructure.Core.AssemblyInfoInputs.cache
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\PrancaBeauty.Infrastructure.Core.AssemblyInfo.cs
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\PrancaBeauty.Infrastructure.Core.csproj.CoreCompileInputs.cache
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\PrancaBeauty.Infrastructure.Core.dll
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\refint\PrancaBeauty.Infrastructure.Core.dll
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\PrancaBeauty.Infrastructure.Core.pdb
+C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\ref\PrancaBeauty.Infrastructure.Core.dll

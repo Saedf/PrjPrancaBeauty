@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj": {}
+    "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj": {
+    "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj",
         "projectName": "PrancaBeauty.Application.Contracts",
-        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj",
+        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saed\\NuGet.Config",
