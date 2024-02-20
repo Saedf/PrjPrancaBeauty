@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace PrancaBeauty.Domain.Users.UserAgg.Entities
 {
-    public class Users:IdentityUser
+    public class Users:IdentityUser<Guid>
     {
 
     }
