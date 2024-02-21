@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.AssemblyInfo.cs
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\bin\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.deps.json
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\bin\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\bin\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.pdb
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\bin\Debug\net6.0\FrameWork.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\bin\Debug\net6.0\FrameWork.pdb
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj.CopyComplete
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\refint\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.pdb
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\obj\Debug\net6.0\ref\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.dll

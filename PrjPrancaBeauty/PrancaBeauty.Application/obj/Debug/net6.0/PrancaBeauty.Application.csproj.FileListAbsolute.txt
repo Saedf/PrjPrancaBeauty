@@ -20,3 +20,9 @@ C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Applica
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\obj\Debug\net6.0\refint\PrancaBeauty.Application.dll
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\obj\Debug\net6.0\PrancaBeauty.Application.pdb
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\obj\Debug\net6.0\ref\PrancaBeauty.Application.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\obj\Debug\net6.0\PrancaBeauty.Application.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\bin\Debug\net6.0\FrameWork.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\bin\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\bin\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.pdb
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\bin\Debug\net6.0\FrameWork.pdb
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\obj\Debug\net6.0\PrancaBeauty.Application.csproj.CopyComplete

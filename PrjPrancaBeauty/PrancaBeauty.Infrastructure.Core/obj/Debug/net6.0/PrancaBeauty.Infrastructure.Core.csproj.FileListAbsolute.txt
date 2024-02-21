@@ -34,3 +34,5 @@ C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrast
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.pdb
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\PrancaBeauty.Infrastructure.Core.csproj.AssemblyReference.cache
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\obj\Debug\net6.0\PrancaBeauty.Infrastructure.Core.csproj.CopyComplete
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\bin\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.Core\bin\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.pdb
