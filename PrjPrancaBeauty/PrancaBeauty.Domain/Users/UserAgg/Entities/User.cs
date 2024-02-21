@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace PrancaBeauty.Domain.Users.UserAgg.Entities
 {
-    public class TblUser:IdentityUser<Guid>,IEntity
+    public class User:IdentityUser<Guid>,IEntity
     {
 
         public string FirstName { get; set; }

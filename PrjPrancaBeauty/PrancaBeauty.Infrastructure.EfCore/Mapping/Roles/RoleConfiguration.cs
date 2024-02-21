@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace PrancaBeauty.Infrastructure.EfCore.Mapping.Roles
 {
-    public class RoleConfiguration : IEntityTypeConfiguration<Domain.Users.RoleAgg.Entities.TblRole>, IEntityConf
+    public class RoleConfiguration : IEntityTypeConfiguration<Domain.Users.RoleAgg.Entities.Role>, IEntityConf
     {
-        public void Configure(EntityTypeBuilder<Domain.Users.RoleAgg.Entities.TblRole> builder)
+        public void Configure(EntityTypeBuilder<Domain.Users.RoleAgg.Entities.Role> builder)
         {
             builder.Property(a => a.ParentId).IsRequired(false).HasMaxLength(450);
             builder.Property(a => a.PageName).IsRequired().HasMaxLength(100);

@@ -9,7 +9,7 @@ using System.Security.Principal;
 
 namespace PrancaBeauty.Infrastructure.EfCore.Context
 {
-    public class MainContext:IdentityDbContext<TblUser,TblRole,Guid>
+    public class MainContext:IdentityDbContext<User,Role,Guid>
     {
         //public DbSet<User> Users { get; set; }
         //public DbSet<Role> Roles { get; set; }

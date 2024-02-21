@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace PrancaBeauty.Domain.Users.RoleAgg.Entities
 {
-    public class TblRole:IdentityRole<Guid>,IEntity
+    public class Role:IdentityRole<Guid>,IEntity
     {
         public string Description { get; set; }
         public int Sort { get; set; }
