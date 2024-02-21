@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj": {}
+    "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj": {
+    "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj",
         "projectName": "PrancaBeauty.Domain",
-        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj",
-        "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\obj\\",
+        "projectPath": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Saed\\NuGet.Config",
-          "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "D:\\Software\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\SoftWare\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
