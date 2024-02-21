@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Identity;
 
-namespace PrancaBeauty.Domain.Users.UserAgg.Entities
+namespace FrameWork.Domain
 {
-    public class Users:IdentityUser<Guid>
+    public interface IEntity<T>:IBaseEntity<T>
+    {
+
+    }
+    public interface IEntity : IEntity<Guid>
     {
 
     }

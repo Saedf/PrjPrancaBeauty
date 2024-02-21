@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6UpXBe1R2bfDs3Jo9a3RxOrPAOYKp/J2iU1ZwlXKAeY1WIiNY5XUgJodWUx9+BAFd831ppi6Mo3AZ+Df43GAXQ==",
+  "dgSpecHash": "1o13nHg5sroc1cHSzLPe4MFE/aqng6rGUxEnlFtiVI2uv3a1b/SRjruoIjV5EuyLnOFGMEs3J8dPYRYXNlQTFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

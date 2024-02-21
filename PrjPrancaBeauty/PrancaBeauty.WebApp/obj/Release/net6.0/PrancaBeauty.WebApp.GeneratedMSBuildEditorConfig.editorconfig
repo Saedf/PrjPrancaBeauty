@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PrancaBeauty.WebApp
 build_property.RootNamespace = PrancaBeauty.WebApp
-build_property.ProjectDir = C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\
+build_property.ProjectDir = C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Saed\Source\Repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp
+build_property.MSBuildProjectDirectory = C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Auth/Login.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Error.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Errors/400.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Errors/400.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JzXDQwMC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Errors/404.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Errors/404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JzXDQwNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/AboutUs.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Blog.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/BlogDetails.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/BlogDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxCbG9nRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Cart.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Checkout.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/ContactUs.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Index.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/ProductDetails.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/ProductDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Search.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Wishlist.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Home/Wishlist.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxXaXNobGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Privacy.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Shared/_BaseLayout.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Shared/_BaseLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9CYXNlTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Shared/_MainLayout.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Shared/_MainLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NYWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/User/Index.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/_ViewImports.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/_ViewStart.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Saed/Source/Repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Shared/_Layout.cshtml]
+[C:/Users/Saed/source/repos/Saedf/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zyfmtgzpzc

@@ -9,9 +9,9 @@ using PrancaBeauty.Infrastructure.EfCore.Contracts;
 
 namespace PrancaBeauty.Infrastructure.EfCore.Mapping.Users
 {
-    public class UserConfiguration:IEntityTypeConfiguration<Domain.Users.UserAgg.Entities.Users>,IEntityConf
+    public class UserConfiguration:IEntityTypeConfiguration<Domain.Users.UserAgg.Entities.TblUser>,IEntityConf
     {
-        public void Configure(EntityTypeBuilder<Domain.Users.UserAgg.Entities.Users> builder)
+        public void Configure(EntityTypeBuilder<Domain.Users.UserAgg.Entities.TblUser> builder)
         {
             builder.Property(a => a.Id);
             builder.Property(a => a.FirstName).IsRequired().HasMaxLength(100);

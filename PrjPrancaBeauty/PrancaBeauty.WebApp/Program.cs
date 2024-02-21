@@ -1,7 +1,10 @@
 using System.Globalization;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
+using FrameWork.Application.Consts;
 using Microsoft.Extensions.WebEncoders;
+using PrancaBeauty.Infrastructure.Core.Configuration;
+using PrancaBeauty.WebApp.Authentication;
 using PrancaBeauty.WebApp.Config;
 using PrancaBeauty.WebApp.Localization.Resource;
 
@@ -14,7 +17,15 @@ builder.Services.AddRazorPage()
     .AddCustomViewLocalization("Localization/Resource")
     .AddCustomDataAnotaionLocalization(builder.Services, typeof(SharedResource));
 
+builder.Services.Config();
+
 builder.Services.AddInject();
+    
+builder.Services.AddCustomIdentity()
+    .AddErrorDescriber<CustomErrorDescriber>();
+
+builder.Services.AddJwtAuthentication(AuthConst.SecretCode,AuthConst.SecretKey,AuthConst.Audience,AuthConst.Issuer); 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -36,7 +47,12 @@ app.UseLocalization(new List<CultureInfo>()
 
 app.UseRouting();
 
-app.UseAuthorization();
+//*******added my self
+app.UseJwtAuthentication(AuthConst.CookieName);
+//******************
+
+//app.UseAuthorization();
+
 
 app.MapRazorPages();
 

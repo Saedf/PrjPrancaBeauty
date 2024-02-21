@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.1.39" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PrancaBeauty.Infrastructure.EfCore.Identity.JWT\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.csproj" />
   </ItemGroup>
 
 </Project>
