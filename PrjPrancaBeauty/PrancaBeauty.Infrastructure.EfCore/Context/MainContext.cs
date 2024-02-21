@@ -1,7 +1,10 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using FrameWork.Domain;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using PrancaBeauty.Domain.Users.RoleAgg.Entities;
 using PrancaBeauty.Domain.Users.UserAgg.Entities;
+using PrancaBeauty.Infrastructure.EfCore.Common.ExMethods;
+using PrancaBeauty.Infrastructure.EfCore.Contracts;
 
 namespace PrancaBeauty.Infrastructure.EfCore.Context
 {
@@ -20,10 +23,13 @@ namespace PrancaBeauty.Infrastructure.EfCore.Context
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
+            var entityAssembly=typeof(IEntityConf).Assembly;
+            builder.RegisterAllEntities<IEntity>(entityAssembly);
+
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
+        { 
             base.OnConfiguring(optionsBuilder);
         }
     }
