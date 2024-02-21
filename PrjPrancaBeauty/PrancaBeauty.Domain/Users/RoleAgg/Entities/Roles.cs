@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FrameWork.Domain;
 using Microsoft.AspNetCore.Identity;
 
 namespace PrancaBeauty.Domain.Users.RoleAgg.Entities
 {
-    public class Roles:IdentityRole<Guid>
+    public class Roles:IdentityRole<Guid>,IEntity
     {
     }
 }

@@ -4,7 +4,12 @@ using Microsoft.Extensions.WebEncoders;
 using System.Globalization;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
+using Microsoft.AspNetCore.Identity;
 using PrancaBeauty.WebApp.Localization;
+using Microsoft.Extensions.DependencyInjection;
+using PrancaBeauty.Domain.Users.RoleAgg.Entities;
+using PrancaBeauty.Domain.Users.UserAgg.Entities;
+using PrancaBeauty.Infrastructure.EfCore.Context;
 
 namespace PrancaBeauty.WebApp.Config
 {
@@ -66,5 +71,7 @@ namespace PrancaBeauty.WebApp.Config
             services.AddSingleton<ILocalizer, Localizer>();
             return services;
         }
+
+      
     }
 }

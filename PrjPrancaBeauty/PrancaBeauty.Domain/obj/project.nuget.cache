@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Pmzz419PMOq8FnvcC0F8EGGq+Z6fStYXExFxXtFVPf5LI/iyt4Ohre2Dh+7jk5XjxrLkb77csVf4wEhYM5e4vQ==",
+  "dgSpecHash": "liRJqTi0QqRNcAhvtAgLdF0afo9GAABhvV5i66nAAYQmAj2ErOQMrkOko+TCWhe2GDFD4iqJD7bFEjOVtPaQLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,8 @@
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Saed\\.nuget\\packages\\netcore.encrypt\\2.1.1\\netcore.encrypt.2.1.1.nupkg.sha512",
+    "C:\\Users\\Saed\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],

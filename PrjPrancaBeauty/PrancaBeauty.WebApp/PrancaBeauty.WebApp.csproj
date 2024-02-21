@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PrancaBeauty.Infrastructure.Core\PrancaBeauty.Infrastructure.Core.csproj" />
+  </ItemGroup>
+
 </Project>

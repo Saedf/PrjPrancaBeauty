@@ -4,6 +4,188 @@
     "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\FrameWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\FrameWork.csproj",
+        "projectName": "FrameWork",
+        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\FrameWork.csproj",
+        "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saed\\NuGet.Config",
+          "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Software\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "NETCore.Encrypt": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj",
+        "projectName": "PrancaBeauty.Application",
+        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj",
+        "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saed\\NuGet.Config",
+          "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Software\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj",
+        "projectName": "PrancaBeauty.Domain",
+        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj",
+        "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saed\\NuGet.Config",
+          "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Software\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\FrameWork.csproj": {
+                "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\FrameWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,7 +210,209 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj": {
+                "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj"
+              },
+              "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj": {
+                "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.csproj",
+        "projectName": "PrancaBeauty.Infrastructure.EfCore.Identity.JWT",
+        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.csproj",
+        "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saed\\NuGet.Config",
+          "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Software\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity\\PrancaBeauty.Infrastructure.EfCore.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity\\PrancaBeauty.Infrastructure.EfCore.Identity.csproj",
+        "projectName": "PrancaBeauty.Infrastructure.EfCore.Identity",
+        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity\\PrancaBeauty.Infrastructure.EfCore.Identity.csproj",
+        "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saed\\NuGet.Config",
+          "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Software\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.csproj": {
+                "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj",
+        "projectName": "PrancaBeauty.Infrastructure.EfCore",
+        "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj",
+        "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saed\\NuGet.Config",
+          "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Software\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj": {
+                "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj"
+              },
+              "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity\\PrancaBeauty.Infrastructure.EfCore.Identity.csproj": {
+                "projectPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity\\PrancaBeauty.Infrastructure.EfCore.Identity.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
