@@ -5,9 +5,9 @@ namespace PrancaBeauty.WebApp.Authentication
 {
     public class CustomErrorDescriber:IdentityErrorDescriber
    {
-       private readonly Localizer _localizer;
+       private readonly ILocalizer _localizer;
 
-       public CustomErrorDescriber(Localizer localizer)
+        public CustomErrorDescriber(ILocalizer localizer)
        {
            _localizer = localizer;
        }

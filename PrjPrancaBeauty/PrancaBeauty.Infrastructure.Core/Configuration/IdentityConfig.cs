@@ -15,7 +15,7 @@ namespace PrancaBeauty.Infrastructure.Core.Configuration
     {
         public static IdentityBuilder AddCustomIdentity(this IServiceCollection services)
         {
-            return services.AddIdentity<Users, Roles>(opt =>
+            return services.AddIdentity<User, Role>(opt =>
                 {
                     opt.SignIn.RequireConfirmedAccount = true;
                     opt.SignIn.RequireConfirmedEmail=true;

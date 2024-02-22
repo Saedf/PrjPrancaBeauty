@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.deps.json
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.pdb
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.AssemblyInfo.cs
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\refint\PrancaBeauty.Infrastructure.EfCore.Identity.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.pdb
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\ref\PrancaBeauty.Infrastructure.EfCore.Identity.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.dll
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.pdb
+C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore.Identity\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.csproj.CopyComplete

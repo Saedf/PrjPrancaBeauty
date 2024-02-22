@@ -17,6 +17,8 @@ builder.Services.AddRazorPage()
     .AddCustomViewLocalization("Localization/Resource")
     .AddCustomDataAnotaionLocalization(builder.Services, typeof(SharedResource));
 
+builder.Services.Config();
+
 builder.Services.AddInject();
     
 builder.Services.AddCustomIdentity()
@@ -46,11 +48,10 @@ app.UseLocalization(new List<CultureInfo>()
 app.UseRouting();
 
 //*******added my self
-app.UseJwtAuthentication();
-
+app.UseJwtAuthentication(AuthConst.CookieName);
 //******************
 
-app.UseAuthorization();
+//app.UseAuthorization();
 
 
 app.MapRazorPages();
