@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RFpHTNPjKLoPBYwD6vkOqai/U3vzFg1M0zDbFOgIpmfezBf53lmt1h7P12C9XtjxOyNycyfelu4tNf2dMxbB8g==",
+  "dgSpecHash": "EJ68GkaMwBB6+0DYB8ImfdkoAylOhhK3iYIpGaXb3EX8rF57cMmuk7JjnmAGt5KK8HKCf94CrAxqaovmQhujJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
+  "projectFilePath": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",

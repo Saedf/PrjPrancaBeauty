@@ -1,4 +1,11 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\PrjPrancaBeauty",
+    "\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore",
+    "\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\Context",
+    "\\PrjPrancaBeauty\\PrancaBeauty.WebApp"
+  ],
+  "SelectedNode": "\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\Context\\MainContext.cs",
   "PreviewInSolutionExplorer": false
 }

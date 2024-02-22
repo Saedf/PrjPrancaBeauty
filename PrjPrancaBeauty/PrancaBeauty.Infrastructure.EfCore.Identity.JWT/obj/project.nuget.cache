@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IW4Fj+4w3E68baAtYJJ01GOOh/NuSYyaWcChbihXxrUVG4lZ3i7OfgG0+DCKAhOQUHm5/ZMOuO6rnxzZFZVHmg==",
+  "dgSpecHash": "hlMoA+shdbiM0atdG2vzDpIKB07ZHgdffKoc0LxCVwH+ERg5RXIGO/5ZyVznOhZElhFWRqCRiUfN3uypd7mTNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.csproj",
+  "projectFilePath": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT\\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.1\\microsoft.aspnetcore.authentication.jwtbearer.6.0.1.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
