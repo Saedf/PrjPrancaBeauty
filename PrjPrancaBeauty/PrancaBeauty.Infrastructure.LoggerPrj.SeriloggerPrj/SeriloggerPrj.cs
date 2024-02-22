@@ -8,7 +8,7 @@ namespace PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj
     {
         public SeriloggerPrj()
         {
-          // Log.Logger = new SerilogConfig().ConfigSqlServer(LogEventLevel.Warning).CreateLogger();
+           Log.Logger = new SerilogConfig().ConfigSqlServer(LogEventLevel.Warning).CreateLogger();
         }
         public void Debug(string message)
         {
