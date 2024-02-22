@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj": {}
   },
   "projects": {
@@ -12,30 +11,17 @@
         "projectName": "PrancaBeauty.Application.Contracts",
         "projectPath": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saed\\Source\\Repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\obj\\",
-=======
-    "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj",
-        "projectName": "PrancaBeauty.Application.Contracts",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\obj\\",
->>>>>>> 2d0a994cf75856cbe0eefdccfc62e5b65ef51a7d
+        "outputPath": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Saed\\NuGet.Config",
+          "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -21,3 +21,4 @@ C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\FrameWork\obj\Debug\
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\FrameWork\obj\Debug\net6.0\refint\FrameWork.dll
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\FrameWork\obj\Debug\net6.0\FrameWork.pdb
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\FrameWork\obj\Debug\net6.0\ref\FrameWork.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\FrameWork\obj\Debug\net6.0\FrameWork.csproj.AssemblyReference.cache
