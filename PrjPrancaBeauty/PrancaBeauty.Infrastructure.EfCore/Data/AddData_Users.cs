@@ -46,7 +46,7 @@ public class AddData_Users
                 ConcurrencyStamp = "37116a3b-0da5-460e-b266-d5243f62e5c8",
                 PhoneNumber = "09384649127",
                 PhoneNumberConfirmed = true,
-                 IsSeller = false
+                 IsSeller = false 
             }, default, true).Wait();
             foreach (var item in _repRoles.Get.ToList())
             {
