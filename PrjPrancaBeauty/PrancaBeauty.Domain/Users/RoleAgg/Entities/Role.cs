@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using FrameWork.Domain.Contracts;
 using Microsoft.AspNetCore.Identity;
+using PrancaBeauty.Domain.Users.AccessLevelAgg.Entities;
 
 namespace PrancaBeauty.Domain.Users.RoleAgg.Entities
 {
@@ -15,6 +16,6 @@ namespace PrancaBeauty.Domain.Users.RoleAgg.Entities
         public string PageName { get; set; }
         public Guid? ParentId { get; set; }//as a subscriber
 
-
+        public virtual ICollection<AccessLevel_Roles> AccessLevelRoles { get; set; }
     }
 }

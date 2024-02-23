@@ -125,6 +125,47 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("PrancaBeauty.Domain.Users.AccessLevelAgg.Entities.AccessLevel", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(150)
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AccessLevel");
+                });
+
+            modelBuilder.Entity("PrancaBeauty.Domain.Users.AccessLevelAgg.Entities.AccessLevel_Roles", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(150)
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("AccessLevelId")
+                        .HasMaxLength(150)
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("RoleId")
+                        .HasMaxLength(450)
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AccessLevelId");
+
+                    b.HasIndex("RoleId");
+
+                    b.ToTable("AccessLevel_Roles");
+                });
+
             modelBuilder.Entity("PrancaBeauty.Domain.Users.RoleAgg.Entities.Role", b =>
                 {
                     b.Property<Guid>("Id")
@@ -168,6 +209,18 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
                         .HasFilter("[NormalizedName] IS NOT NULL");
 
                     b.ToTable("AspNetRoles", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("41968555-f977-4569-b729-b11f01478b02"),
+                            ConcurrencyStamp = "2bf49351-f854-43f3-ae80-526d7ff9f280",
+                            Description = "دسترسی مدیر کل",
+                            Name = "FullControl",
+                            NormalizedName = "FULLCONTROL",
+                            PageName = "FullControl",
+                            Sort = 0
+                        });
                 });
 
             modelBuilder.Entity("PrancaBeauty.Domain.Users.UserAgg.Entities.User", b =>
@@ -178,6 +231,9 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
 
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
+
+                    b.Property<Guid>("AccessLevelId")
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
@@ -197,6 +253,12 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
                         .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsSeller")
+                        .HasColumnType("bit");
 
                     b.Property<string>("LastName")
                         .IsRequired()
@@ -237,6 +299,8 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
                         .HasColumnType("nvarchar(256)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("AccessLevelId");
 
                     b.HasIndex("NormalizedEmail")
                         .HasDatabaseName("EmailIndex");
@@ -298,6 +362,48 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("PrancaBeauty.Domain.Users.AccessLevelAgg.Entities.AccessLevel_Roles", b =>
+                {
+                    b.HasOne("PrancaBeauty.Domain.Users.AccessLevelAgg.Entities.AccessLevel", "AccessLevels")
+                        .WithMany("AccessLevelRoles")
+                        .HasForeignKey("AccessLevelId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("PrancaBeauty.Domain.Users.RoleAgg.Entities.Role", "Roles")
+                        .WithMany("AccessLevelRoles")
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AccessLevels");
+
+                    b.Navigation("Roles");
+                });
+
+            modelBuilder.Entity("PrancaBeauty.Domain.Users.UserAgg.Entities.User", b =>
+                {
+                    b.HasOne("PrancaBeauty.Domain.Users.AccessLevelAgg.Entities.AccessLevel", "AccessLevel")
+                        .WithMany("Users")
+                        .HasForeignKey("AccessLevelId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("AccessLevel");
+                });
+
+            modelBuilder.Entity("PrancaBeauty.Domain.Users.AccessLevelAgg.Entities.AccessLevel", b =>
+                {
+                    b.Navigation("AccessLevelRoles");
+
+                    b.Navigation("Users");
+                });
+
+            modelBuilder.Entity("PrancaBeauty.Domain.Users.RoleAgg.Entities.Role", b =>
+                {
+                    b.Navigation("AccessLevelRoles");
                 });
 #pragma warning restore 612, 618
         }
