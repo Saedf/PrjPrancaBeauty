@@ -4,14 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FrameWork.Domain
+namespace FrameWork.Domain.Contracts
 {
-    public interface IEntity<T>:IBaseEntity<T>
+    public interface IBaseEntity<T>
     {
-
-    }
-    public interface IEntity : IEntity<Guid>
-    {
-
+        public T Id { get; set; }
     }
 }

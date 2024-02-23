@@ -32,3 +32,15 @@ C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrast
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\obj\Debug\net6.0\ref\PrancaBeauty.Infrastructure.EfCore.dll
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.runtimeconfig.json
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.genruntimeconfig.cache
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.runtimeconfig.json
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\FrameWork.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\PrancaBeauty.Domain.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\PrancaBeauty.Domain.pdb
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.pdb
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\FrameWork.pdb
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\bin\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.Identity.JWT.pdb
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.csproj.AssemblyReference.cache
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.csproj.CopyComplete
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Infrastructure.EfCore\obj\Debug\net6.0\PrancaBeauty.Infrastructure.EfCore.genruntimeconfig.cache

@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using FrameWork.Infrastructure;
+using PrancaBeauty.Domain.Users.UserAgg.Contracts;
+using PrancaBeauty.Infrastructure.EfCore.Repository.Users;
 using PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj;
 
 namespace PrancaBeauty.Infrastructure.Core.Configuration
@@ -17,7 +19,9 @@ namespace PrancaBeauty.Infrastructure.Core.Configuration
         {
             
             services.AddDbContext<MainContext>(opt => opt.UseSqlServer("Server=.;Database=PrancaBeautyDb;Trusted_Connection=True;"));
-            services.AddSingleton<ILogger, SeriloggerPrj>();
+            services.AddScoped<ILogger, SeriloggerPrj>();
+            services.AddScoped<IUserRepository, UserRepository>();
+
         }
     }
 }

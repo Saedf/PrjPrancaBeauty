@@ -17,3 +17,14 @@ C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\refint\PrancaBeauty.Domain.dll
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\PrancaBeauty.Domain.pdb
 C:\Users\admin\source\repos\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\ref\PrancaBeauty.Domain.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\bin\Debug\net6.0\PrancaBeauty.Domain.deps.json
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\bin\Debug\net6.0\PrancaBeauty.Domain.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\bin\Debug\net6.0\PrancaBeauty.Domain.pdb
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\bin\Debug\net6.0\FrameWork.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\bin\Debug\net6.0\FrameWork.pdb
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\PrancaBeauty.Domain.csproj.AssemblyReference.cache
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\PrancaBeauty.Domain.csproj.CopyComplete
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\PrancaBeauty.Domain.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\refint\PrancaBeauty.Domain.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\PrancaBeauty.Domain.pdb
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Domain\obj\Debug\net6.0\ref\PrancaBeauty.Domain.dll
