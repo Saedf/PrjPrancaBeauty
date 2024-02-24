@@ -23,7 +23,7 @@ namespace PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj
             return new LoggerConfiguration()
                 .Enrich.FromLogContext()
                 .MinimumLevel.Is(logEventLevel)
-                .WriteTo.MSSqlServer("Data Source=.;Initial Catalog=SerilogDB;Integrated Security=True;", new MSSqlServerSinkOptions
+                .WriteTo.MSSqlServer("Data Source=.; Initial Catalog=SerilogDB; Integrated Security=true; User Id=sa; Password=123456; TrustServerCertificate=True", new MSSqlServerSinkOptions
                     {
                         AutoCreateSqlTable = true,
                         TableName = "tblPrancaBeautyLogs",

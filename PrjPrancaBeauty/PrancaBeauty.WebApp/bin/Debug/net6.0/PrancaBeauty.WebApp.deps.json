@@ -1066,6 +1066,7 @@
       },
       "FrameWork/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.27",
           "Microsoft.Extensions.Identity.Stores": "6.0.1",
           "NETCore.Encrypt": "2.1.1"
         },
@@ -1075,10 +1076,17 @@
       },
       "PrancaBeauty.Application/1.0.0": {
         "dependencies": {
+          "PrancaBeauty.Application.Contracts": "1.0.0",
+          "PrancaBeauty.Domain": "1.0.0",
           "PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj": "1.0.0"
         },
         "runtime": {
           "PrancaBeauty.Application.dll": {}
+        }
+      },
+      "PrancaBeauty.Application.Contracts/1.0.0": {
+        "runtime": {
+          "PrancaBeauty.Application.Contracts.dll": {}
         }
       },
       "PrancaBeauty.Domain/1.0.0": {
@@ -1888,6 +1896,11 @@
       "sha512": ""
     },
     "PrancaBeauty.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrancaBeauty.Application.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

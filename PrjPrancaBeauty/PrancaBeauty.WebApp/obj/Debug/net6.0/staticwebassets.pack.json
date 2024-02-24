@@ -1449,8 +1449,516 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\README.md",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\ckeditor.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\af.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ast.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\az.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\da.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\de.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\el.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\es.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\et.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\he.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\id.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\it.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\km.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\kn.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ne.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\no.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\si.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\th.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\build\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\build\\translations\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\package.json",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\sample\\index.html",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\sample\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\sample\\styles.css",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\sample\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\src\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\src\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\CKEditor5\\webpack.config.js",
+      "PackagePath": "staticwebassets\\lib\\CKEditor5\\webpack.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\css\\Bootstrap\\loading-image.gif",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\css\\Bootstrap\\loading-image.gif"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\css\\Theme\\Bs-Kendo-Theme.css",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\css\\Theme\\Bs-Kendo-Theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\css\\Theme\\Bs-Kendo-Theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\css\\Theme\\Bs-Kendo-Theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\css\\kendo.ltr.css",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\css\\kendo.ltr.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\css\\kendo.ltr.min.css",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\css\\kendo.ltr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\css\\kendo.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\css\\kendo.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\css\\kendo.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\css\\kendo.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuMono\\DejaVuSansMono-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuMono\\DejaVuSansMono-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuMono\\DejaVuSansMono-BoldOblique.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuMono\\DejaVuSansMono-BoldOblique.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuMono\\DejaVuSansMono-Oblique.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuMono\\DejaVuSansMono-Oblique.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuMono\\DejaVuSansMono.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuMono\\DejaVuSansMono.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuSans\\DejaVuSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuSans\\DejaVuSans-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuSans\\DejaVuSans-BoldOblique.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuSans\\DejaVuSans-BoldOblique.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuSans\\DejaVuSans-Oblique.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuSans\\DejaVuSans-Oblique.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuSans\\DejaVuSans.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuSans\\DejaVuSans.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuSerif\\DejaVuSerif-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuSerif\\DejaVuSerif-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuSerif\\DejaVuSerif-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuSerif\\DejaVuSerif-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuSerif\\DejaVuSerif-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuSerif\\DejaVuSerif-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\DejaVuSerif\\DejaVuSerif.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\DejaVuSerif\\DejaVuSerif.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\WebComponentsIcons\\WebComponentsIcons.eot",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\WebComponentsIcons\\WebComponentsIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\WebComponentsIcons\\WebComponentsIcons.ttf",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\WebComponentsIcons\\WebComponentsIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\fonts\\WebComponentsIcons\\WebComponentsIcons.woff",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\fonts\\WebComponentsIcons\\WebComponentsIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\js\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\js\\kendo.all.min.js",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\js\\kendo.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\KendoUI\\js\\kendo.aspnetmvc.min.js",
+      "PackagePath": "staticwebassets\\lib\\KendoUI\\js\\kendo.aspnetmvc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\PersianDatePicker\\persian-date.min.js",
+      "PackagePath": "staticwebassets\\lib\\PersianDatePicker\\persian-date.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\PersianDatePicker\\persian-datepicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\PersianDatePicker\\persian-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\PersianDatePicker\\persian-datepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\PersianDatePicker\\persian-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\RatingSlider\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\lib\\RatingSlider\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\RatingSlider\\ratingSlider.js",
+      "PackagePath": "staticwebassets\\lib\\RatingSlider\\ratingSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\Tagify\\jQuery.tagify.min.js",
+      "PackagePath": "staticwebassets\\lib\\Tagify\\jQuery.tagify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\Tagify\\react.tagify.js",
+      "PackagePath": "staticwebassets\\lib\\Tagify\\react.tagify.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\Tagify\\tagify.esm.js",
+      "PackagePath": "staticwebassets\\lib\\Tagify\\tagify.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\Tagify\\tagify.js",
+      "PackagePath": "staticwebassets\\lib\\Tagify\\tagify.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\Tagify\\tagify.min.js",
+      "PackagePath": "staticwebassets\\lib\\Tagify\\tagify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\Tagify\\tagify.polyfills.min.js",
+      "PackagePath": "staticwebassets\\lib\\Tagify\\tagify.polyfills.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\autoNumeric\\autoNumeric.min.js",
+      "PackagePath": "staticwebassets\\lib\\autoNumeric\\autoNumeric.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap-slider\\slider.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-slider\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css"
+    },
+    {
       "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
       "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -1629,6 +2137,106 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\color-picker\\jquery.minicolors.css",
+      "PackagePath": "staticwebassets\\lib\\color-picker\\jquery.minicolors.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\color-picker\\jquery.minicolors.js",
+      "PackagePath": "staticwebassets\\lib\\color-picker\\jquery.minicolors.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\color-picker\\jquery.minicolors.min.js",
+      "PackagePath": "staticwebassets\\lib\\color-picker\\jquery.minicolors.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\color-picker\\jquery.minicolors.png",
+      "PackagePath": "staticwebassets\\lib\\color-picker\\jquery.minicolors.png"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\countdown-timer-controls\\jquery-countdown-timer-control.js",
+      "PackagePath": "staticwebassets\\lib\\countdown-timer-controls\\jquery-countdown-timer-control.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\countdown-timer-controls\\jquery-countdown-timer-control.min.js",
+      "PackagePath": "staticwebassets\\lib\\countdown-timer-controls\\jquery-countdown-timer-control.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\input-mask\\inputmask.min.js",
+      "PackagePath": "staticwebassets\\lib\\input-mask\\inputmask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\input-mask\\jquery.inputmask.min.js",
+      "PackagePath": "staticwebassets\\lib\\input-mask\\jquery.inputmask.min.js"
+    },
+    {
       "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
@@ -1665,6 +2273,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\core.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\core.js"
+    },
+    {
       "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
@@ -1675,6 +2287,30 @@
     {
       "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
     },
     {
       "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\layers-2x.png",
@@ -1731,6 +2367,82 @@
     {
       "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.min.js",
       "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\CHANGELOG.MD",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\CHANGELOG.MD"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\README.md",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\dist\\nouislider.css",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\dist\\nouislider.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\dist\\nouislider.d.ts",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\dist\\nouislider.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\dist\\nouislider.js",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\dist\\nouislider.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\dist\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\dist\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\dist\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\dist\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\package.json",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\src\\nouislider.base.less",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\src\\nouislider.base.less"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\src\\nouislider.core.less",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\src\\nouislider.core.less"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\src\\nouislider.less",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\src\\nouislider.less"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\src\\nouislider.pips.less",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\src\\nouislider.pips.less"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\src\\nouislider.tooltips.less",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\src\\nouislider.tooltips.less"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\noUiSlider\\src\\nouislider.ts",
+      "PackagePath": "staticwebassets\\lib\\noUiSlider\\src\\nouislider.ts"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\sweetalert\\sweetalert.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert\\sweetalert.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\sweetalert\\sweetalert.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert\\sweetalert.js"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\sweetalert\\sweetalert.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert\\sweetalert.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\lib\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert\\sweetalert.min.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PrancaBeauty.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",

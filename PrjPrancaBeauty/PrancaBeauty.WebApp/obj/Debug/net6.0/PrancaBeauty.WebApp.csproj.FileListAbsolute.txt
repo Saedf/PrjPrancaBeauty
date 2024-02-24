@@ -264,3 +264,5 @@ C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.We
 C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\bin\Debug\net6.0\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.pdb
 C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\PrancaBeauty.WebApp.csproj.AssemblyReference.cache
 C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\obj\Debug\net6.0\PrancaBeauty.WebApp.csproj.CopyComplete
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\bin\Debug\net6.0\PrancaBeauty.Application.Contracts.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.WebApp\bin\Debug\net6.0\PrancaBeauty.Application.Contracts.pdb

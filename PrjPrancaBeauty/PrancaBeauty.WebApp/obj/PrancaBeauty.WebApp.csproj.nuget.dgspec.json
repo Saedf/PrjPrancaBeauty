@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -49,6 +53,61 @@
               "version": "[2.1.1, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj",
+        "projectName": "PrancaBeauty.Application.Contracts",
+        "projectPath": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saed\\NuGet.Config",
+          "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -93,6 +152,12 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application.Contracts\\PrancaBeauty.Application.Contracts.csproj"
+              },
+              "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj": {
+                "projectPath": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj"
+              },
               "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj": {
                 "projectPath": "C:\\Users\\Saed\\source\\repos\\Saedf\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj"
               }

@@ -1850,6 +1850,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.27",
           "Microsoft.Extensions.Identity.Stores": "6.0.1",
           "NETCore.Encrypt": "2.1.1"
         },
@@ -1864,6 +1865,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "PrancaBeauty.Application.Contracts": "1.0.0",
+          "PrancaBeauty.Domain": "1.0.0",
           "PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj": "1.0.0"
         },
         "compile": {
@@ -1871,6 +1874,16 @@
         },
         "runtime": {
           "bin/placeholder/PrancaBeauty.Application.dll": {}
+        }
+      },
+      "PrancaBeauty.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PrancaBeauty.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrancaBeauty.Application.Contracts.dll": {}
         }
       },
       "PrancaBeauty.Domain/1.0.0": {
@@ -4733,6 +4746,11 @@
       "type": "project",
       "path": "../PrancaBeauty.Application/PrancaBeauty.Application.csproj",
       "msbuildProject": "../PrancaBeauty.Application/PrancaBeauty.Application.csproj"
+    },
+    "PrancaBeauty.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../PrancaBeauty.Application.Contracts/PrancaBeauty.Application.Contracts.csproj",
+      "msbuildProject": "../PrancaBeauty.Application.Contracts/PrancaBeauty.Application.Contracts.csproj"
     },
     "PrancaBeauty.Domain/1.0.0": {
       "type": "project",

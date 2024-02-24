@@ -1,4 +1,4 @@
-﻿using FrameWork.Domain;
+﻿using FrameWork.Domain.Contracts;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using PrancaBeauty.Domain.Users.RoleAgg.Entities;
@@ -18,10 +18,10 @@ namespace PrancaBeauty.Infrastructure.EfCore.Context
             
         }
 
-        //public MainContext()
-        //{
-            
-        //}
+        public MainContext()
+        {
+
+        }
 
         protected override void OnModelCreating(ModelBuilder builder) 
         {

@@ -32,3 +32,7 @@ C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Ap
 C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\bin\Debug\net6.0\FrameWork.pdb
 C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\obj\Debug\net6.0\PrancaBeauty.Application.csproj.AssemblyReference.cache
 C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\obj\Debug\net6.0\PrancaBeauty.Application.csproj.CopyComplete
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\bin\Debug\net6.0\PrancaBeauty.Application.Contracts.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\bin\Debug\net6.0\PrancaBeauty.Domain.dll
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\bin\Debug\net6.0\PrancaBeauty.Application.Contracts.pdb
+C:\Users\Saed\source\repos\Saedf\PrjPrancaBeauty\PrjPrancaBeauty\PrancaBeauty.Application\bin\Debug\net6.0\PrancaBeauty.Domain.pdb
