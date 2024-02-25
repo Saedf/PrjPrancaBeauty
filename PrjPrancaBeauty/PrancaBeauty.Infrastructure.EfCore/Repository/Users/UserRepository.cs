@@ -41,5 +41,21 @@ namespace PrancaBeauty.Infrastructure.EfCore.Repository.Users
         {
             return _userManager.Options.SignIn.RequireConfirmedEmail;
         }
+
+        public async Task<IdentityResult> EmailConfirmationAsync(User entityUser, string token)
+        {
+            if (entityUser == null)
+                throw new ArgumentNullException("User cant be null.");
+
+            if (string.IsNullOrWhiteSpace(token))
+                throw new ArgumentNullException("Token cant be null.");
+
+            return await _userManager.ConfirmEmailAsync(entityUser, token);
+        }
+
+        public  async Task<bool> IsEmailConfirmedAsync(User entityUser)
+        {
+            return await _userManager.IsEmailConfirmedAsync(entityUser);
+        }
     }
 }

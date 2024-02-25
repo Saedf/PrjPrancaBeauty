@@ -170,6 +170,58 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
                     b.ToTable("Language");
                 });
 
+            modelBuilder.Entity("PrancaBeauty.Domain.Settings.SettingsAgg.Entities.Setting", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(150)
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("CreationDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsEnable")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsInManufacture")
+                        .HasColumnType("bit");
+
+                    b.Property<Guid>("LangId")
+                        .HasMaxLength(150)
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("SiteDescription")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("SitePhoneNumber")
+                        .IsRequired()
+                        .HasMaxLength(25)
+                        .HasColumnType("nvarchar(25)");
+
+                    b.Property<string>("SiteTitle")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("SiteUrl")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("Sitemail")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("LangId");
+
+                    b.ToTable("Setting");
+                });
+
             modelBuilder.Entity("PrancaBeauty.Domain.Templates.TemplatesAgg.Entitis.Template", b =>
                 {
                     b.Property<Guid>("Id")
@@ -285,8 +337,8 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("7d85e60a-d12a-4452-b387-b12000eb756d"),
-                            ConcurrencyStamp = "ba90812e-8222-407f-8d43-285d6f5cc144",
+                            Id = new Guid("7ed70eda-81e8-4822-97ea-b120015293b5"),
+                            ConcurrencyStamp = "df133f0f-003d-4ae3-9e00-21f457d66e03",
                             Description = "دسترسی مدیر کل",
                             Name = "FullControl",
                             NormalizedName = "FULLCONTROL",
@@ -436,6 +488,17 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("PrancaBeauty.Domain.Settings.SettingsAgg.Entities.Setting", b =>
+                {
+                    b.HasOne("PrancaBeauty.Domain.Region.LanguagesAgg.Entities.Language", "Language")
+                        .WithMany("Settinges")
+                        .HasForeignKey("LangId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Language");
+                });
+
             modelBuilder.Entity("PrancaBeauty.Domain.Templates.TemplatesAgg.Entitis.Template", b =>
                 {
                     b.HasOne("PrancaBeauty.Domain.Region.LanguagesAgg.Entities.Language", "Language")
@@ -479,6 +542,8 @@ namespace PrancaBeauty.Infrastructure.EfCore.Migrations
 
             modelBuilder.Entity("PrancaBeauty.Domain.Region.LanguagesAgg.Entities.Language", b =>
                 {
+                    b.Navigation("Settinges");
+
                     b.Navigation("Templates");
                 });
 

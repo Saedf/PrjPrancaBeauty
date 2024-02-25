@@ -8,7 +8,7 @@ using PrancaBeauty.Domain.Users.RoleAgg.Entities;
 
 namespace PrancaBeauty.Domain.Users.AccessLevelAgg.Entities
 {
-    public class AccessLevel_Roles: IEntity
+    public class AccessLevel_Roles : IEntity
     {
         public Guid Id { get; set; }
         public Guid AccessLevelId { get; set; }

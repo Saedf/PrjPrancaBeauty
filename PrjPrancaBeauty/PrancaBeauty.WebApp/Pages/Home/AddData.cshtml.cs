@@ -10,7 +10,9 @@ namespace PrancaBeauty.WebApp.Pages.Home
         {
             try
             {
+                
                 new AddData_Main().Run();
+              
             }
             catch (Exception e)
             {

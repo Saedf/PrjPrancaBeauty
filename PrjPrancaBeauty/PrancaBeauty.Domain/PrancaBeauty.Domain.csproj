@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Users\AccessLevelAgg\Contracts\" />
     <Folder Include="Users\RoleAgg\Contracts\" />
   </ItemGroup>
 

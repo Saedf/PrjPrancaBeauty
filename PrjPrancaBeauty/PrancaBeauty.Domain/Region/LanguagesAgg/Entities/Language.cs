@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PrancaBeauty.Domain.Settings.SettingsAgg.Entities;
 using PrancaBeauty.Domain.Templates.TemplatesAgg.Entitis;
 
 namespace PrancaBeauty.Domain.Region.LanguagesAgg.Entities
@@ -21,5 +22,6 @@ namespace PrancaBeauty.Domain.Region.LanguagesAgg.Entities
         public bool UseForSiteLanguage { get; set; }
 
         public virtual ICollection<Template> Templates { get; set; }
+        public virtual ICollection<Setting> Settinges { get; set; }
     }
 }

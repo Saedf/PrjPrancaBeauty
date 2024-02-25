@@ -8,13 +8,20 @@ using System.Text;
 using System.Threading.Tasks;
 using FrameWork.Application.Services.Email;
 using FrameWork.Infrastructure;
+using PrancaBeauty.Application.Apps.AccessLevels;
+using PrancaBeauty.Application.Apps.AccesslevelsRoles;
 using PrancaBeauty.Application.Apps.Templates;
 using PrancaBeauty.Application.Apps.Users;
+using PrancaBeauty.Domain.Settings.SettingsAgg.Contracts;
 using PrancaBeauty.Domain.Templates.TemplatesAgg.Contracts;
+using PrancaBeauty.Domain.Users.AccessLevelAgg.Contracts;
 using PrancaBeauty.Domain.Users.UserAgg.Contracts;
+using PrancaBeauty.Infrastructure.EfCore.Repository.AccessLevel;
+using PrancaBeauty.Infrastructure.EfCore.Repository.Settings;
 using PrancaBeauty.Infrastructure.EfCore.Repository.Templates;
 using PrancaBeauty.Infrastructure.EfCore.Repository.Users;
 using PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj;
+using PrancaBeauty.Application.Apps.Settings;
 
 namespace PrancaBeauty.Infrastructure.Core.Configuration
 {
@@ -28,9 +35,15 @@ namespace PrancaBeauty.Infrastructure.Core.Configuration
             services.AddScoped<IEmailSender, GmailSender>();
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<ITemplateRepository, TemplateRepository>();
+            services.AddScoped<ISettingRepository, SettingRepository>();
+            services.AddScoped<IAccesslevelRepository, AccessLevelRepository>();
+            services.AddScoped<IAccesslevelRolesRepository, AccesslevelRolesRepository>();
 
             services.AddScoped<IUserApplication, UserApplication>();
             services.AddScoped<ITemplateApplication, TemplateApplication>();
+            services.AddScoped<ISettingApplication, SettingApplication>();
+            services.AddScoped<IAccesslevelApplication, AccesslevelApplication>();
+            services.AddScoped<IAccesslevelRolesApplication, AccesslevelRolesApplication>();
 
         }
     }

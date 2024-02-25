@@ -8,7 +8,10 @@ using PrancaBeauty.WebApp.Models.ViewInput;
 using System.Globalization;
 using System.Net;
 using FrameWork.Application.Services.Email;
+using PrancaBeauty.Application.Apps.Settings;
+using PrancaBeauty.Application.Apps.Templates;
 using PrancaBeauty.WebApp.Localization;
+using PrancaBeauty.Application.Apps.Settings;
 
 namespace PrancaBeauty.WebApp.Pages.Auth
 {
@@ -17,17 +20,21 @@ namespace PrancaBeauty.WebApp.Pages.Auth
         private readonly IUserApplication _userApplication;
         private readonly IEmailSender _emailSender;
         private readonly ILocalizer _localizer;
+        private readonly ITemplateApplication _templateApplication;
+        private readonly ISettingApplication _settingApplication;
 
-        public RegisterModel(IUserApplication userApplication, IEmailSender emailSender, ILocalizer localizer)
+        public RegisterModel(IUserApplication userApplication, IEmailSender emailSender, ILocalizer localizer, ITemplateApplication templateApplication, ISettingApplication settingApplication)
         {
             _userApplication = userApplication;
             _emailSender = emailSender;
             _localizer = localizer;
+            _templateApplication = templateApplication;
+            _settingApplication = settingApplication;
         }
 
         public IActionResult OnGet()
         {
-             return Page();
+            return Page();
         }
         public async Task<IActionResult> OnPostAsync()
         {
@@ -52,14 +59,14 @@ namespace PrancaBeauty.WebApp.Pages.Auth
                         string Token = await _userApplication.GenerateEmailConfirmationTokenAsync(new InpGenerateEmailConfirmationToken { UserId = UserId });
                         string EncToken = $"{UserId}, {Token}".AesEncrypt(AuthConst.SecretKey);
 
-                     //   string SiteUrl = (await _SettingApplication.GetSettingAsync(new InpGetSetting { LangCode = CultureInfo.CurrentCulture.Name })).SiteUrl;
+                        string SiteUrl = (await _settingApplication.GetSettingAsync(CultureInfo.CurrentCulture.Name)).SiteUrl;
 
-                       string url = $"/Auth/EmailConfirmation?Token={WebUtility.UrlEncode(EncToken)}";
-                    //   await _emailSender.SendAsync(Input.Email, _localizer["RegistrationEmailSubject"], await _TemplateApplication.GetEmailConfirmationTemplateAsync(new InpGetEmailConfirmationTemplate { LangCode = CultureInfo.CurrentCulture.Name, Url = url }));
+                        string url = $"{SiteUrl}/Auth/EmailConfirmation?Token={WebUtility.UrlEncode(EncToken)}";
+                        await _emailSender.SendAsync(Input.Email, _localizer["RegistrationEmailSubject"], await _templateApplication.GetEmailConfirmationTemplateAsync(CultureInfo.CurrentCulture.Name, url));
                     }
                     #endregion
 
-                   // return Redirect($"/{CultureInfo.CurrentCulture.Parent.Name}/Auth/AccountCreate");
+                    return Redirect($"/Auth/AccountCreate");
                 }
                 else
                     return Redirect($"/Auth/AccountCreate");
@@ -75,7 +82,7 @@ namespace PrancaBeauty.WebApp.Pages.Auth
 
                 return Page();
             }
-          
+
         }
 
         [BindProperty]
