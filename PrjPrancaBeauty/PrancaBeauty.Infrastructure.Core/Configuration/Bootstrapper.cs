@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using FrameWork.Application.Services.Email;
+using FrameWork.Common.Utilities.Downloader;
 using FrameWork.Infrastructure;
 using PrancaBeauty.Application.Apps.AccessLevels;
 using PrancaBeauty.Application.Apps.AccesslevelsRoles;
@@ -33,6 +34,9 @@ namespace PrancaBeauty.Infrastructure.Core.Configuration
             services.AddDbContext<MainContext>(opt => opt.UseSqlServer("Data Source=.; Initial Catalog=PrancaBeautyDB; Integrated Security=true; User Id=sa; Password=123456; TrustServerCertificate=True"));
             services.AddScoped<ILogger, SeriloggerPrj>();
             services.AddScoped<IEmailSender, GmailSender>();
+            services.AddScoped<IDownloader, Downloader>();
+
+
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<ITemplateRepository, TemplateRepository>();
             services.AddScoped<ISettingRepository, SettingRepository>();

@@ -24,8 +24,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Auth/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5jc2h0bWw=
+[C:/Users/admin/source/repos/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Auth/Login/Components/Compo_Login_UserNamePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpblxDb21wb25lbnRzXENvbXBvX0xvZ2luX1VzZXJOYW1lUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/source/repos/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Auth/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpblxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/admin/source/repos/PrjPrancaBeauty/PrjPrancaBeauty/PrancaBeauty.WebApp/Pages/Auth/Register.cshtml]

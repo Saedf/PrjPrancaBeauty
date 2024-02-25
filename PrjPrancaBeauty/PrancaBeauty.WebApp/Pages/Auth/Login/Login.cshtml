@@ -1,5 +1,5 @@
 ﻿@page "/Auth/Login"
-@model PrancaBeauty.WebApp.Pages.Auth.LoginModel
+@model PrancaBeauty.WebApp.Pages.Auth.Login.LoginModel
 @{
     ViewData["Title"] = Localizer["Login"];
     Layout = "~/Pages/Shared/_MainLayout.cshtml";
@@ -11,8 +11,8 @@
             <div class="col-12">
                 <div class="breadcrumb_content">
                     <ul>
-                        <li><a href="index.html">home</a></li>
-                        <li>Login</li>
+                        <li><a href="/">@Localizer["Home"]</a></li>
+                        <li>@ViewData["Title"]</li>
                     </ul>
                 </div>
             </div>
@@ -25,35 +25,13 @@
     <div class="container">
         <div class="row">
             <!--register area start-->
-            <div class="col-lg-6 col-md-6">
-
+             <div class="col-lg-6 col-md-6">
+                <LoadComponent id="Compo_Login" url="/Auth/Login/Components/LoginByUsernamePassword" context="HttpContext"></LoadComponent>
             </div>
             <!--register area end-->
             <!--login area start-->
             <div class="col-lg-6 col-md-6">
-                <div class="account_form">
-                    <h2>login</h2>
-                    <form action="#">
-                        <p>
-                            <label>Username or email <span>*</span></label>
-                            <input type="text">
-                        </p>
-                        <p>
-                            <label>Passwords <span>*</span></label>
-                            <input type="password">
-                        </p>
-                        <div class="login_submit">
-                            <a href="#">Lost your password?</a>
-                            <label for="remember">
-                                <input id="remember" type="checkbox">
-                                Remember me
-                            </label>
-                            <button type="submit">login</button>
-
-                        </div>
-
-                    </form>
-                </div>
+             
             </div>
             <!--login area start-->
            
@@ -92,5 +70,18 @@
 </div>
 <!--brand area end-->
 <!--shipping area start-->
-<partial name="Shared/PartialViews/_ShippingPartialView" />
+@* <partial name="Shared/PartialViews/_ShippingPartialView" /> *@
 <!--shipping area end-->
+@section styles{
+    <link href="~/lib/sweetalert/sweetalert.min.css" rel="stylesheet" />
+}
+
+@section scripts{
+    <script src="~/lib/input-mask/jquery.inputmask.min.js"></script>
+    <script src="~/lib/sweetalert/sweetalert.min.js"></script>
+    <script>
+        function GotoReturnUrl() {
+            location.href = '@ViewData["ReturnUrl"]';
+        }
+    </script>
+}

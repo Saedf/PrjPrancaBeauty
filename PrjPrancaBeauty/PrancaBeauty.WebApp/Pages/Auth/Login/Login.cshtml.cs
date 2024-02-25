@@ -1,7 +1,6 @@
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace PrancaBeauty.WebApp.Pages.Auth
+namespace PrancaBeauty.WebApp.Pages.Auth.Login
 {
     public class LoginModel : PageModel
     {
@@ -9,7 +8,7 @@ namespace PrancaBeauty.WebApp.Pages.Auth
         {
         }
 
-        public void OnPost()
+        public void OnPost(string returnUrl)
         {
 
         }
