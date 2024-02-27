@@ -4785,37 +4785,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Saed\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
       "projectName": "PrancaBeauty.Infrastructure.Core",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\obj\\",
+      "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
+      "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Saed\\NuGet.Config",
+        "C:\\Users\\Saed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj"
+            "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj": {
+              "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Application\\PrancaBeauty.Application.csproj"
             },
-            "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj"
+            "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj": {
+              "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj"
             }
           }
         }
