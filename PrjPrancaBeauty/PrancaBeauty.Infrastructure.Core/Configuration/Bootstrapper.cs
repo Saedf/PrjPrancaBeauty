@@ -11,6 +11,7 @@ using FrameWork.Common.Utilities.Downloader;
 using FrameWork.Infrastructure;
 using PrancaBeauty.Application.Apps.AccessLevels;
 using PrancaBeauty.Application.Apps.AccesslevelsRoles;
+using PrancaBeauty.Application.Apps.Roles;
 using PrancaBeauty.Application.Apps.Templates;
 using PrancaBeauty.Application.Apps.Users;
 using PrancaBeauty.Domain.Settings.SettingsAgg.Contracts;
@@ -23,6 +24,8 @@ using PrancaBeauty.Infrastructure.EfCore.Repository.Templates;
 using PrancaBeauty.Infrastructure.EfCore.Repository.Users;
 using PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj;
 using PrancaBeauty.Application.Apps.Settings;
+using PrancaBeauty.Domain.Users.RoleAgg.Contracts;
+using PrancaBeauty.Infrastructure.EfCore.Repository.Roles;
 
 namespace PrancaBeauty.Infrastructure.Core.Configuration
 {
@@ -42,12 +45,14 @@ namespace PrancaBeauty.Infrastructure.Core.Configuration
             services.AddScoped<ISettingRepository, SettingRepository>();
             services.AddScoped<IAccesslevelRepository, AccessLevelRepository>();
             services.AddScoped<IAccesslevelRolesRepository, AccesslevelRolesRepository>();
+            services.AddScoped<IRoleRepository, RoleRepository>();
 
             services.AddScoped<IUserApplication, UserApplication>();
             services.AddScoped<ITemplateApplication, TemplateApplication>();
             services.AddScoped<ISettingApplication, SettingApplication>();
             services.AddScoped<IAccesslevelApplication, AccesslevelApplication>();
             services.AddScoped<IAccesslevelRolesApplication, AccesslevelRolesApplication>();
+            services.AddScoped<IRoleApplication, RoleApplication>();
 
         }
     }

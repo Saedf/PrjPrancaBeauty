@@ -6,40 +6,43 @@ using System.Globalization;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using PrancaBeauty.Application.Apps.Roles;
 
 namespace PrancaBeauty.WebApp.Authentication
 {
     public class JWTBuilder:IJWTBuilder
     {
         private readonly IUserApplication _UserApplication;
+        private readonly IRoleApplication _roleApplication;
 
-        public JWTBuilder(IUserApplication userApplication)
+        public JWTBuilder(IUserApplication userApplication, IRoleApplication roleApplication)
         {
             _UserApplication = userApplication;
+            _roleApplication = roleApplication;
         }
 
         //  private readonly IRoleApplication _RoleApplication;
         public async Task<string> CreateTokenAync(string UserId)
         {
-            var _UserDetails = await _UserApplication.GetAllUserDetailsAsync(new InpGetAllUserDetails { UserId = UserId });
-            if (_UserDetails == null)
+            var userDetails = await _UserApplication.GetAllUserDetailsAsync( UserId );
+            if (userDetails == null)
                 throw new Exception();
 
-           // var _UserRoles = await _RoleApplication.GetRolesByUserAsync(new InpGetRolesByUser { UserId = UserId });
-            if (_UserDetails == null)
+            var _UserRoles = await _roleApplication.GetRolesByUserAsync(UserId);
+            if (_UserRoles == null)
                 throw new Exception();
 
             var Claims = new List<Claim>
             {
-                new Claim(ClaimTypes.NameIdentifier,_UserDetails.Id.ToString()),
-                new Claim(ClaimTypes.Name, _UserDetails.UserName),
-                new Claim(ClaimTypes.Email, _UserDetails.Email),
-                new Claim(ClaimTypes.MobilePhone, _UserDetails.PhoneNumber??""),
-                new Claim(ClaimTypes.GivenName, _UserDetails.FirstName),
-                new Claim(ClaimTypes.Surname, _UserDetails.LastName),
-                new Claim("AccessLevel", _UserDetails.AccessLevelTitle),
-                new Claim("SellerId", _UserDetails.SellerId??""),
-                new Claim("Date", _UserDetails.Date.ToString("yyyy/MM/dd HH:mm:ss", new CultureInfo("en-US"))),
+                new Claim(ClaimTypes.NameIdentifier,userDetails.Id.ToString()),
+                new Claim(ClaimTypes.Name, userDetails.UserName),
+                new Claim(ClaimTypes.Email, userDetails.Email),
+                new Claim(ClaimTypes.MobilePhone, userDetails.PhoneNumber??""),
+                new Claim(ClaimTypes.GivenName, userDetails.FirstName),
+                new Claim(ClaimTypes.Surname, userDetails.LastName),
+                new Claim("AccessLevel", userDetails.AccessLevelTitle),
+             //   new Claim("SellerId", userDetails.SellerId??""),
+                new Claim("Date", userDetails.Date.ToString("yyyy/MM/dd HH:mm:ss", new CultureInfo("en-US"))),
             };
 
           //  Claims.AddRange(_UserRoles.Select(role => new Claim(ClaimsIdentity.DefaultRoleClaimType, role)));
