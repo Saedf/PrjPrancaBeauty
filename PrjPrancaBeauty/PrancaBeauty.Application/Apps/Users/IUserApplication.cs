@@ -14,5 +14,6 @@ namespace PrancaBeauty.Application.Apps.Users
         Task<string> GenerateEmailConfirmationTokenAsync(InpGenerateEmailConfirmationToken Input);
         Task<OperationResult> EmailConfirmationAsync(string userId,string token);
         Task<bool> IsEmailConfirmedAsync(string userId);
+        Task<OperationResult> LoginByUserNamePasswordAsync(string userName, string  password);
     }
 }

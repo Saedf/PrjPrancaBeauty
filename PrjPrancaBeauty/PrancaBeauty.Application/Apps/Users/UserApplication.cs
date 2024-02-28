@@ -128,5 +128,35 @@ namespace PrancaBeauty.Application.Apps.Users
 
             return await _userRepository.IsEmailConfirmedAsync(qUser);
         }
+
+        public async Task<OperationResult> LoginByUserNamePasswordAsync(string userName, string password)
+        {
+            try
+            {
+                #region Validations
+              //  Input.CheckModelState(_ServiceProvider);
+                #endregion
+
+
+               // var userId = await _userRepository.GetUserIdByEmailAsync(Input.Email);
+                if (string.IsNullOrWhiteSpace(userName))
+                    return new OperationResult().Failed("EmailOrPasswordIsInvalid");
+
+                if (string.IsNullOrWhiteSpace(password))
+                    return new OperationResult().Failed("EmailOrPasswordIsInvalid");
+
+                return new OperationResult().Succeeded("");
+            }
+            //catch (ArgumentInvalidException ex)
+            //{
+            //    _Logger.Debug(ex);
+            //    return new OperationResult().Failed(ex.Message);
+            //}
+            catch (Exception ex)
+            {
+                _logger.Error(ex);
+                return new OperationResult().Failed("Error500");
+            }
+        }
     }
 }

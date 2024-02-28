@@ -13,6 +13,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddLocalization("Localization/Resource");
 builder.Services.WebEncoderConfig();
+
+builder.Services.AddAntiforgery(a => a.HeaderName = "XSRF-TOKEN");
+
 builder.Services.AddRazorPage()
     .AddCustomViewLocalization("Localization/Resource")
     .AddCustomDataAnotaionLocalization(builder.Services, typeof(SharedResource));
