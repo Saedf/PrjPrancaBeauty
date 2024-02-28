@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using PrancaBeauty.Domain.Users.RoleAgg.Entities;
 using PrancaBeauty.Domain.Users.UserAgg.Entities;
 using PrancaBeauty.Infrastructure.EfCore.Context;
+using PrancaBeauty.WebApp.Authentication;
 using PrancaBeauty.WebApp.Common.Utility.MsgBox;
 
 namespace PrancaBeauty.WebApp.Config
@@ -71,6 +72,7 @@ namespace PrancaBeauty.WebApp.Config
         {
             services.AddSingleton<ILocalizer, Localizer>();
             services.AddSingleton<IMsgBox, MsgBox>();
+            services.AddScoped<IJWTBuilder, JWTBuilder>();
             return services;
         }
 

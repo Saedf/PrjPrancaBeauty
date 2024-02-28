@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using FrameWork.Infrastructure;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using PrancaBeauty.Application.Apps.AccessLevels;
 using PrancaBeauty.Application.Contracts.Results;
@@ -121,31 +123,24 @@ namespace PrancaBeauty.Application.Apps.Users
             }
 
         }
-
-        public async Task<bool> IsEmailConfirmedAsync(string userId)
-        {
-            var qUser = await _userRepository.FindByIdAsync(userId);
-
-            return await _userRepository.IsEmailConfirmedAsync(qUser);
-        }
-
         public async Task<OperationResult> LoginByUserNamePasswordAsync(string userName, string password)
         {
             try
             {
                 #region Validations
-              //  Input.CheckModelState(_ServiceProvider);
+                // Input.CheckModelState(_ServiceProvider);
                 #endregion
-
-
-               // var userId = await _userRepository.GetUserIdByEmailAsync(Input.Email);
                 if (string.IsNullOrWhiteSpace(userName))
-                    return new OperationResult().Failed("EmailOrPasswordIsInvalid");
+                    throw new ArgumentNullException("UserId cant be null.");
 
                 if (string.IsNullOrWhiteSpace(password))
-                    return new OperationResult().Failed("EmailOrPasswordIsInvalid");
+                    throw new ArgumentNullException("Password cant be null.");
+                var userId = await _userRepository.GetUserIdByUserNameAsync(userName);
 
-                return new OperationResult().Succeeded("");
+                if (userId == null)
+                    return new OperationResult().Failed("UserNameOrPasswordIsInvalid");
+
+                return await LoginAsync(userId, password);
             }
             //catch (ArgumentInvalidException ex)
             //{
@@ -158,5 +153,130 @@ namespace PrancaBeauty.Application.Apps.Users
                 return new OperationResult().Failed("Error500");
             }
         }
+
+        public async Task<OutGetAllUserDetails> GetAllUserDetailsAsync(string userId)
+        {
+            try
+            {
+                #region Validations
+               // Input.CheckModelState(_ServiceProvider);
+                #endregion
+
+                var qData = await _userRepository.Get
+                    .Where(a => a.Id == Guid.Parse(userId))
+                    .Select(a => new OutGetAllUserDetails
+                    {
+                        Id = a.Id.ToString(),
+                      //  SellerId = a.tblSellers != null ? a.tblSellers.Id.ToString() : null,
+                        UserName = a.UserName,
+                        Email = a.Email,
+                        PhoneNumber = a.PhoneNumber,
+                        AccessLevelId = a.AccessLevelId.ToString(),
+                        AccessLevelTitle = a.AccessLevel.Name,
+                        FirstName = a.FirstName,
+                        LastName = a.LastName,
+                        Date = a.Date,
+                        IsActive = a.IsActive
+                    })
+                    .SingleOrDefaultAsync();
+
+                if (qData == null)
+                    return null;
+
+                return qData;
+            }
+            //catch (ArgumentInvalidException ex)
+            //{
+            //    _Logger.Debug(ex);
+            //    return null;
+            //}
+            catch (Exception ex)
+            {
+                _logger.Error(ex);
+                return null;
+            }
+        }
+
+        public async Task<bool> RemoveUnConfirmedUserAsync(string Email)
+        {
+            var qUser = await GetUserByEmailAsync(Email);
+            if (qUser == null)
+                return true;
+
+            if (qUser.EmailConfirmed)
+                return true;
+
+           var result = await _userRepository.DeleteAsync(qUser);
+            if (result.Succeeded)
+                return true;
+            else
+                throw new Exception(string.Join(", ", result.Errors.Select(a => a.Description)));
+        }
+
+        public Task<User> GetUserByEmailAsync(string Email)
+        {
+            throw new NotImplementedException();
+        }
+
+
+        public async Task<OperationResult> LoginAsync(string userId, string password)
+        {
+            try
+            {
+                #region Validations
+                //Input.CheckModelState(_ServiceProvider);
+                #endregion
+
+                if (string.IsNullOrWhiteSpace(userId))
+                    throw new ArgumentNullException("UserId cant be null.");
+
+                if (string.IsNullOrWhiteSpace(password))
+                    throw new ArgumentNullException("Password cant be null.");
+
+                var qUser = await _userRepository.FindByIdAsync(userId);
+
+                if (qUser == null)
+                    return new OperationResult().Failed("UserNameOrPasswordIsInvalid");
+
+                if (qUser.EmailConfirmed == false)
+                    return new OperationResult().Failed("PleaseConfirmYourEmail");
+
+                if (qUser.IsActive == false)
+                    return new OperationResult().Failed("YourAccountIsDisabled");
+
+                var Result = await _userRepository.PasswordSignInAsync(qUser, password, true, true);
+                if (Result.Succeeded)
+                {
+                    return new OperationResult().Succeeded(qUser.Id.ToString());
+                }
+                else
+                {
+                    if (Result.IsLockedOut)
+                        return new OperationResult().Failed("UserIsLockedOut");
+                    else if (Result.IsNotAllowed)
+                        return new OperationResult().Failed("UserNameOrPasswordIsInvalid");
+                    else
+                        return new OperationResult().Failed("UserNameOrPasswordIsInvalid");
+                }
+            }
+            //catch (ArgumentInvalidException ex)
+            //{
+            //    _Logger.Debug(ex);
+            //    return new OperationResult().Failed(ex.Message);
+            //}
+            catch (Exception ex)
+            {
+                _logger.Error(ex);
+                return new OperationResult().Failed("Error500");
+            }
+        }
+
+        public async Task<bool> IsEmailConfirmedAsync(string userId)
+        {
+            var qUser = await _userRepository.FindByIdAsync(userId);
+
+            return await _userRepository.IsEmailConfirmedAsync(qUser);
+        }
+
     }
 }

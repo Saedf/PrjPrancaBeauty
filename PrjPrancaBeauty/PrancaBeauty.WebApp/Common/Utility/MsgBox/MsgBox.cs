@@ -5,11 +5,11 @@ namespace PrancaBeauty.WebApp.Common.Utility.MsgBox
 {
     public class MsgBox:IMsgBox
     {
-        private readonly ILocalizer _localizer;
+        private readonly ILocalizer _Localizer;
 
         public MsgBox(ILocalizer localizer)
         {
-            _localizer = localizer;
+            _Localizer = localizer;
         }
 
         private string Show(string Title, string Message, MsgBoxType Type, string OkBtnText = "OK", string CallBackFunction = null)
@@ -30,30 +30,32 @@ namespace PrancaBeauty.WebApp.Common.Utility.MsgBox
             return Js;
         }
 
-        public JsResult ModelStateMsg(string ModelErrors, string CallBackFuncs = null)
+
+        public JsResult AccessDeniedMsg(string CallBackFuncs = "function(){locaton.reload();}")
         {
-            return new JsResult(Show("", ModelErrors.Replace(",", "<br/>"), MsgBoxType.error, _localizer["OK"], CallBackFuncs));
+            return new JsResult(Show("", _Localizer["AccessDeniedMsg"], MsgBoxType.error, _Localizer["OK"], CallBackFuncs));
         }
 
-        public JsResult FaildMsg(string Message, string CallBackFuncs = null)
+        public JsResult ModelStateMsg(string ModelErrors, string CallBackFuncs = null)
         {
-            return new JsResult(Show("", Message, MsgBoxType.error, _localizer["OK"], CallBackFuncs));
+            return new JsResult(Show("", ModelErrors.Replace(",", "<br/>"), MsgBoxType.error, _Localizer["OK"], CallBackFuncs));
+        }
+
+        public JsResult FailedMsg(string Message, string CallBackFuncs = null)
+        {
+            return new JsResult(Show("", Message, MsgBoxType.error, _Localizer["OK"], CallBackFuncs));
         }
 
         public JsResult InfoMsg(string Message, string CallBackFuncs = null)
         {
-            return new JsResult(Show("", Message, MsgBoxType.info, _localizer["OK"], CallBackFuncs));
+            return new JsResult(Show("", Message, MsgBoxType.info, _Localizer["OK"], CallBackFuncs));
         }
 
         public JsResult SuccessMsg(string Message, string CallBackFuncs = null)
         {
-            return new JsResult(Show("", Message, MsgBoxType.success, _localizer["OK"], CallBackFuncs));
+            return new JsResult(Show("", Message, MsgBoxType.success, _Localizer["OK"], CallBackFuncs));
         }
 
-        public JsResult AccessDeniedMsg(string CallBackFuncs = "function(){locaton.reload();}")
-        {
-            return new JsResult(Show("", _localizer["AccessDeniedMsg"], MsgBoxType.error, _localizer["OK"], CallBackFuncs));
-        }
     }
 
     public enum MsgBoxType
@@ -65,4 +67,3 @@ namespace PrancaBeauty.WebApp.Common.Utility.MsgBox
         //question
     }
 }
-
