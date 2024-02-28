@@ -3816,9 +3816,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj",
+      "projectUniqueName": "C:\\Users\\Saed\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj",
       "projectName": "PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj",
-      "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj",
+      "projectPath": "C:\\Users\\Saed\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj",
       "packagesPath": "C:\\Users\\Saed\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\\obj\\",
       "projectStyle": "PackageReference",
@@ -3837,8 +3837,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\FrameWork.csproj": {
-              "projectPath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\FrameWork.csproj"
+            "C:\\Users\\Saed\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\FrameWork.csproj": {
+              "projectPath": "C:\\Users\\Saed\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\FrameWork\\FrameWork.csproj"
             }
           }
         }

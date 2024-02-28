@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j/PwYrHI6VRKrQsM4f/Iw9UOJVTGNjnnzu/tVWEgmws7TlIxYZH0fqP0rxqNISrPPUvjzMPWPAfiwn6O3SZ0KA==",
+  "dgSpecHash": "OO2IknQf2vJ+QpVaZBwx2FGtfVI1qkbCvnW37CVKn40s/+/VNr321DLGz7Iv8yoiEWjxemWneEkLc8f+uu6l4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
+  "projectFilePath": "C:\\Users\\Saed\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.Core\\PrancaBeauty.Infrastructure.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saed\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

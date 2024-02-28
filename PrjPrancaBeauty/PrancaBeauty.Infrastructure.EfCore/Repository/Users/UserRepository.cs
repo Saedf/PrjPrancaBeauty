@@ -16,9 +16,11 @@ namespace PrancaBeauty.Infrastructure.EfCore.Repository.Users
     public class UserRepository:BaseRepository<User>,IUserRepository
     {
         private readonly UserManager<User> _userManager;
-        public UserRepository(MainContext mainContext, UserManager<User> userManager) : base(mainContext)
+        private readonly SignInManager<User> _signInManager;
+        public UserRepository(MainContext mainContext, UserManager<User> userManager, SignInManager<User> signInManager) : base(mainContext)
         {
             _userManager = userManager;
+            _signInManager = signInManager;
         }
 
 
@@ -56,6 +58,25 @@ namespace PrancaBeauty.Infrastructure.EfCore.Repository.Users
         public  async Task<bool> IsEmailConfirmedAsync(User entityUser)
         {
             return await _userManager.IsEmailConfirmedAsync(entityUser);
+        }
+
+        public  async Task<SignInResult> PasswordSignInAsync(User user, string password, bool isPersistent, bool lockoutOnFailure)
+        {
+            return await _signInManager.PasswordSignInAsync(user, password, isPersistent, lockoutOnFailure);
+        }
+
+        public async Task<string?> GetUserIdByUserNameAsync(string userName)
+        {
+            return await GetNoTraking.Where(a => a.UserName == userName).Select(a => a.Id.ToString()).SingleOrDefaultAsync();
+        }
+
+        public  async Task<string?> GetUserIdByEmailAsync(string email)
+        {
+            return await GetNoTraking.Where(a => a.Email == email).Select(a => a.Id.ToString()).SingleOrDefaultAsync();
+        }
+        public async Task<string?> GetUserIdByPhoneNumberAsync(string phoneNumber)
+        {
+            return await GetNoTraking.Where(a => a.PhoneNumber == phoneNumber).Select(a => a.Id.ToString()).SingleOrDefaultAsync();
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iE83PcZzN/x1VxsU5AD+qKItDGF52bxhgZ5zHHeYpheBKLywJd9pvGnY71sV3N4FQdDP5oGbYgA5POPc3sbVlg==",
+  "dgSpecHash": "p619SjSnZadN9Txgulq8rDJm5FkW/rq2XDn1OAtltLzvXlPWo9BcCraEBwPHVeTBV+30EDrKgJYTDYjAaw/KBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Saed\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Domain\\PrancaBeauty.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.1\\microsoft.aspnetcore.cryptography.internal.6.0.1.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.1\\microsoft.aspnetcore.cryptography.keyderivation.6.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cwmYwvfW0VbM4BuorczBqMhMM6Fu2+g3nYBIXHLkdV+peRSQknmMBghrly5cQhnBtREIoDrg9KwXU1G2ereXsQ==",
+  "dgSpecHash": "KAPijxNGZPZsUGYfqUcYqYpnM6VDhjiuZ7f7HJODyHs+WNdmLyEB8umczVfXuus4ov+H8EUQHaa453JtKYQboQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj",
+  "projectFilePath": "C:\\Users\\Saed\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj\\PrancaBeauty.Infrastructure.LoggerPrj.SeriloggerPrj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saed\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

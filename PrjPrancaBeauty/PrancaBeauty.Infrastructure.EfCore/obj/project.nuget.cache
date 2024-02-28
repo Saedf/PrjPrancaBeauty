@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWNSA6fRrVrCKb4uWNko4rw3IYsIIandF4I2k9wCT70rfe8mxsVAw54Lla6arUyTwGWHXZ1RW7mo4B6xxw1m+g==",
+  "dgSpecHash": "+xMu7HlybWlWFtuwmSW2htH9Vd1Ye/vOD/Evmfy+Wj6Mf3tMAGIe0+yQ6kPfDbPnj9rogZONV+G/YxZZTz3Hcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saed\\Source\\Repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj",
+  "projectFilePath": "C:\\Users\\Saed\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.Infrastructure.EfCore\\PrancaBeauty.Infrastructure.EfCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saed\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Saed\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
