@@ -1,0 +1,38 @@
+﻿@page "/Auth/Login/Components/LoginByPhoneNumber"
+@model PrancaBeauty.WebApp.Pages.Auth.Login.Components.PhoneNumberLogin.Compo_Login_PhoneNumberModel
+@{
+}
+<div class="account_form">
+    <h2>@Localizer["LoginByPhoneNumber"]</h2>
+    <form id="compo_Login" method="post" asp-antiforgery="false">
+        <p>
+            <label asp-for="Input.PhoneNumber"></label>
+            <input autocomplete="off" asp-for="Input.PhoneNumber" class="text-left">
+        </p>
+        <div class="login_submit">
+            <a onclick="LoginByEmailPassword()" href="#LoginPhoneNumber">@Localizer["LoginByEmailPassword"]</a>
+            <button onclick="SendForm('/@ViewData["culture"]/Auth/Login/Components/LoginByPhoneNumber','compo_Login')" type="button">@Localizer["SendAuthCode"]</button>
+        </div>
+    </form>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('#Input_PhoneNumber').inputmask({
+            regex: '@Localizer["MobilePattern"]',
+            placeholder: ''
+        });
+    });
+
+    function LoginByEmailPassword() {
+        LoadComponent('/@ViewData["culture"]/Auth/Login/Components/LoginByEmailPassword', { ReturnUrl: null }, function (data) {
+            $('#CompoLogin').html(data);
+        });
+    }
+
+    function GotoOtpPage() {
+        LoadComponent('/@ViewData["culture"]/Auth/Login/Components/LoginByPhoneNumber/OTP', { PhoneNumber: $('#Input_PhoneNumber').val() }, function (data) {
+            $('#CompoLogin').html(data);
+        });
+    }
+</script>

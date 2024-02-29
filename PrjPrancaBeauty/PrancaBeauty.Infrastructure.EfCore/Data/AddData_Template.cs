@@ -47,29 +47,29 @@ namespace PrancaBeauty.Infrastructure.EfCore.Data
                 }, default, true).Wait();
             }
 
-            //// EmailLogin  fa-IR
-            //if (!_repTemplate.GetNoTraking.Any(a => a.Language.Code == "fa-IR" && a.Name == "EmailLogin"))
-            //{
-            //    _repTemplate.AddAsync(new Template()
-            //    {
-            //        Id = new Guid().SequentialGuid(),
-            //        LangId = _repLang.GetNoTraking.Where(a => a.Code == "fa-IR").Select(a => a.Id).Single(),
-            //        Name = "EmailLogin",
-            //        GeneralTemplate = "<a href='[Url]'>ورود به سایت</a>"
-            //    }, default, true).Wait();
-            //}
+            // EmailLogin  fa-IR
+            if (!_repTemplate.GetNoTraking.Any(a => a.Language.Code == "fa-IR" && a.Name == "EmailLogin"))
+            {
+                _repTemplate.AddAsync(new Template()
+                {
+                    Id = new Guid().SequentialGuid(),
+                    LangId = _repLang.GetNoTraking.Where(a => a.Code == "fa-IR").Select(a => a.Id).Single(),
+                    Name = "EmailLogin",
+                    GeneralTemplate = "<a href='[Url]'>ورود به سایت</a>"
+                }, default, true).Wait();
+            }
 
-            //// EmailLogin  en-US
-            //if (!_repTemplate.GetNoTraking.Any(a => a.Language.Code == "en-US" && a.Name == "EmailLogin"))
-            //{
-            //    _repTemplate.AddAsync(new Template()
-            //    {
-            //        Id = new Guid().SequentialGuid(),
-            //        LangId = _repLang.GetNoTraking.Where(a => a.Code == "en-US").Select(a => a.Id).Single(),
-            //        Name = "EmailLogin",
-            //        GeneralTemplate = "<a href='[Url]'>Click To Login</a>"
-            //    }, default, true).Wait();
-            //}
+            // EmailLogin  en-US
+            if (!_repTemplate.GetNoTraking.Any(a => a.Language.Code == "en-US" && a.Name == "EmailLogin"))
+            {
+                _repTemplate.AddAsync(new Template()
+                {
+                    Id = new Guid().SequentialGuid(),
+                    LangId = _repLang.GetNoTraking.Where(a => a.Code == "en-US").Select(a => a.Id).Single(),
+                    Name = "EmailLogin",
+                    GeneralTemplate = "<a href='[Url]'>Click To Login</a>"
+                }, default, true).Wait();
+            }
 
             //// ChanageEmail  fa-IR
             //if (!_repTemplate.GetNoTraking.Any(a => a.Language.Code == "fa-IR" && a.Name == "ChanageEmail"))

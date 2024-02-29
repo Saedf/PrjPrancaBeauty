@@ -12,6 +12,7 @@ namespace PrancaBeauty.Domain.Users.UserAgg.Contracts
     public interface IUserRepository:IRepository<User>
     {
         Task<IdentityResult> CreateUserAsync(User entityUser, string password);
+        Task<IdentityResult> AddPhoneNumberPasswordAsync(User entity, string Password);
         Task<string> GenerateEmailConfirmationTokenAsync(User entityUser);
         Task<User> FindByIdAsync(string userId);
         bool RequireConfirmedEmail();
@@ -22,5 +23,10 @@ namespace PrancaBeauty.Domain.Users.UserAgg.Contracts
         Task<string?> GetUserIdByEmailAsync(string email);
         Task<string?> GetUserIdByPhoneNumberAsync(string phoneNumber);
         Task<IdentityResult> DeleteAsync(User entity);
+        Task<User> FindByEmailAsync(string Email);
+        Task<IdentityResult> RemovePasswordAsync(User entity, string Password);
+        Task<IdentityResult> RemovePhoneNumberPasswordAsync(User entity);
+        Task<bool> HasPasswordAsync(User user);
+
     }
 }

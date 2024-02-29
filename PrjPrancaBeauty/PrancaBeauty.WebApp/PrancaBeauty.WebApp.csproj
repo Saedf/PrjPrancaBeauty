@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <Folder Include="Models\ViewModel\" />
+    <Folder Include="wwwroot\Shared\" />
   </ItemGroup>
 
 </Project>

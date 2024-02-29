@@ -57,6 +57,31 @@ namespace PrancaBeauty.Application.Apps.Templates
             return _template;
         }
 
+        public async Task<string> GetEmailLoginTemplateAsync(string langCode, string url)
+        {
+            try
+            {
+                #region Validations
+               // Input.CheckModelState(_ServiceProvider);
+                #endregion
+
+                string _Template = await GetTemplateAsync(langCode, "EmailLogin");
+
+                return (await SetGeneralParameters(_Template, langCode))
+                    .Replace("[Url]", url);
+            }
+            //catch (ArgumentInvalidException ex)
+            //{
+            //    _Logger.Debug(ex);
+            //    return null;
+            //}
+            catch (Exception ex)
+            {
+                _logger.Error(ex);
+                return null;
+            }
+        }
+
         private async Task<string> SetGeneralParameters(string template, string langCode)
         {
             var qSetting = await _settingApplication.GetSettingAsync(langCode);

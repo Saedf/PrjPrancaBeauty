@@ -40,6 +40,9 @@ namespace PrancaBeauty.WebApp.Pages.Auth
         {
             if (!ModelState.IsValid)
                 return Page();
+            var qUser = (await _userApplication.GetUserByEmailAsync(Input.Email));
+            await _userApplication.RemoveUnConfirmedUserAsync(qUser.Id.ToString());
+
             var result = await _userApplication.AddUserAsync(new InpAddUser
             {
                 Email = Input.Email,

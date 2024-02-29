@@ -83,8 +83,11 @@
     <script src="~/Main/js/plugins.js"></script>
 
     @RenderSection("scripts", false)
-
-    <!-- Main JS -->
+    
+<!-- Shared Scripts -->
+<script src="/@ViewData["Culture"]/RenderStaticFiles/Custom.js"></script>
+<script src="~/Shared/js/SharedScript.min.js"></script>
+<!-- Main JS -->
     <script src="~/Main/js/main.js"></script>
 </body>
 </html>

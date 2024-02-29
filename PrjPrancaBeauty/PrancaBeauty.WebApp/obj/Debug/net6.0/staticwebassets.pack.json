@@ -1445,6 +1445,42 @@
       "PackagePath": "staticwebassets\\Main\\scss\\rtl\\style.scss"
     },
     {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Shared\\img\\false.png",
+      "PackagePath": "staticwebassets\\Shared\\img\\false.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Shared\\img\\filetype\\jpg.png",
+      "PackagePath": "staticwebassets\\Shared\\img\\filetype\\jpg.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Shared\\img\\filetype\\mp4.png",
+      "PackagePath": "staticwebassets\\Shared\\img\\filetype\\mp4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Shared\\img\\filetype\\png.png",
+      "PackagePath": "staticwebassets\\Shared\\img\\filetype\\png.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Shared\\img\\question.png",
+      "PackagePath": "staticwebassets\\Shared\\img\\question.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Shared\\img\\true.png",
+      "PackagePath": "staticwebassets\\Shared\\img\\true.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Shared\\img\\video-img.jpg",
+      "PackagePath": "staticwebassets\\Shared\\img\\video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Shared\\js\\SharedScript.js",
+      "PackagePath": "staticwebassets\\Shared\\js\\SharedScript.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\Shared\\js\\SharedScript.min.js",
+      "PackagePath": "staticwebassets\\Shared\\js\\SharedScript.min.js"
+    },
+    {
       "Id": "C:\\Users\\admin\\source\\repos\\PrjPrancaBeauty\\PrjPrancaBeauty\\PrancaBeauty.WebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

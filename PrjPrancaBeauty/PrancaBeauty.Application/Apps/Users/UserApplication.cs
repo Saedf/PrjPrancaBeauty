@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FrameWork.Application.Consts;
+using FrameWork.Common.ExMethods;
 using FrameWork.Infrastructure;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -197,7 +199,7 @@ namespace PrancaBeauty.Application.Apps.Users
             }
         }
 
-        public async Task<bool> RemoveUnConfirmedUserAsync(string Email)
+        public async Task<bool> RemoveUnConfirmedUserAsync(string Email) 
         {
             var qUser = await GetUserByEmailAsync(Email);
             if (qUser == null)
@@ -213,11 +215,139 @@ namespace PrancaBeauty.Application.Apps.Users
                 throw new Exception(string.Join(", ", result.Errors.Select(a => a.Description)));
         }
 
-        public Task<User> GetUserByEmailAsync(string Email)
+        public async Task<User> GetUserByEmailAsync(string Email)
         {
-            throw new NotImplementedException();
+            // throw new NotImplementedException();
+            var qUser = await _userRepository.FindByEmailAsync(Email);
+            return qUser;
         }
 
+        public async Task<OperationResult> LoginByEmailLinkStep1Async(string Email, string IP)
+        {
+            try
+            {
+                #region Validations
+              //  Input.CheckModelState(_ServiceProvider);
+                #endregion
+
+                var qUser = await GetUserByEmailAsync(Email);
+
+                if (qUser == null)
+                    return new OperationResult().Failed("EmailNotFound");
+
+                if (qUser.EmailConfirmed == false)
+                    return new OperationResult().Failed("PleaseConfirmYourEmail");
+
+                if (qUser.IsActive == false)
+                    return new OperationResult().Failed("YourAccountIsDisabled");
+
+                var ReNewPasswordResult = await ReCreatePasswordAsync( qUser.Id.ToString() );
+                if (ReNewPasswordResult.IsSucceeded)
+                {
+                    return new OperationResult().Succeeded(qUser.Id + ", " + ReNewPasswordResult.Message + ", " + IP + ", " + DateTime.Now.ToString("yy/MM/dd HH:mm"));
+                }
+                else
+                {
+                    return new OperationResult().Failed(ReNewPasswordResult.Message);
+                }
+            }
+            //catch (ArgumentInvalidException ex)
+            //{
+            //    _Logger.Debug(ex);
+            //    return new OperationResult().Failed(ex.Message);
+            //}
+            catch (Exception ex)
+            {
+                _logger.Error(ex);
+                return new OperationResult().Failed("Error500");
+            }
+
+        }
+
+        public async Task<OperationResult> LoginByEmailLinkStep2Async(string UserId, string Password, string LinkIP, string UserIP, DateTime dateTime)
+        {
+            try
+            {
+                #region Validations
+               // Input.CheckModelState(_ServiceProvider);
+                #endregion
+
+                var qUser = await _userRepository.FindByIdAsync(UserId);
+
+                if (qUser == null)
+                    return new OperationResult().Failed("LinkExipred");
+
+                if (qUser.EmailConfirmed == false)
+                    return new OperationResult().Failed("LinkExipred");
+
+                if (qUser.IsActive == false)
+                    return new OperationResult().Failed("YourAccountIsDisabled");
+
+                if (qUser.PasswordPhoneNumber != Password.ToMD5())
+                    return new OperationResult().Failed("LinkExipred");
+
+                return new OperationResult().Succeeded(qUser.Id.ToString());
+            }
+            //catch (ArgumentInvalidException ex)
+            //{
+            //    _Logger.Debug(ex);
+            //    return new OperationResult().Failed(ex.Message);
+            //}
+            catch (Exception ex)
+            {
+                _logger.Error(ex);
+                return new OperationResult().Failed("Error500");
+            }
+        }
+
+        public async Task<OperationResult> ReCreatePasswordAsync(string userId)
+        {
+            try
+            {
+                #region Validations
+               // Input.CheckModelState(_ServiceProvider);
+                #endregion
+
+                var qUser = await _userRepository.GetById(default, userId);
+                if (qUser == null)
+                    return new OperationResult().Failed("User not found");
+
+                if (qUser.LastTrySentSms.HasValue)
+                    if (qUser.LastTrySentSms.Value.AddMinutes(AuthConst.LimitToResendSmsInMinute) > DateTime.Now)
+                        return new OperationResult().Failed("LimitToResendSms2Minute");
+
+                #region حذف پسورد قبلی کاربر
+                var Result = await _userRepository.RemovePhoneNumberPasswordAsync(qUser);
+                if (!Result.Succeeded)
+                {
+                    _logger.Error(string.Join(", ", Result.Errors.Select(a => a.Description)));
+                    return new OperationResult().Failed("UserNotFound");
+                }
+                #endregion
+
+                #region تنظیم پسورد جدید برای کاربر
+                string NewPassword = new Random().Next(10000, 99999).ToString();
+                var AddPassResult = await _userRepository.AddPhoneNumberPasswordAsync(qUser, NewPassword);
+                if (!AddPassResult.Succeeded)
+                {
+                    _logger.Error(string.Join(", ", AddPassResult.Errors.Select(a => a.Description)));
+                    return new OperationResult().Failed("UserNotFound");
+                }
+                #endregion
+
+                return new OperationResult().Succeeded(NewPassword);
+            }
+            //catch (ArgumentInvalidException ex)
+            //{
+            //    _Logger.Debug(ex);
+            //    return new OperationResult().Failed(ex.Message);
+            //}
+            catch (Exception ex)
+            {
+                _logger.Error(ex);
+                return new OperationResult().Failed("Error500");
+            }
+        }
 
         public async Task<OperationResult> LoginAsync(string userId, string password)
         {
